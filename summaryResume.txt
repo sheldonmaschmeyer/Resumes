@@ -1,0 +1,80 @@
+﻿Sheldon W. B. Maschmeyer
+562 Reardon Private, Ottawa, Ontario, Canada, K1V 2L1
+613-889-4320 | sheldon@maschmeyer.ca
+profile
+    • Secret Level Security Clearance
+    • Qualified for Computer Software Developer, IT and researching positions
+    • I have both applied computer science and broad science, technology and environmental education
+    • For the majority of my work experience, I was working part-time while studying to finance my education (low-income adult student without family financial support)
+
+Education
+Carleton University	Ottawa
+BS. Computer Science (Minor: Sociology)	2019
+
+Carleton University	Ottawa
+BS. Integrated Science and Technology	2014
+
+Technology Skills
+    • C++ and Java
+    • Windows (Batch) and Linux (Batch).
+    • OS Kernel programming on Linux.
+    • Databases: Oracle SQL, mySQL, MongoDB.
+    • Git; using GitHub for collaboration and version control.
+    • XML, JSON, CSS, JavaScript, PHP, HTML5. Used Bootstrap-5 and additional frameworks.
+    • Favorite IDE: Dreamweaver (Windows) and Wappler (Linux).
+    • OpenSource Matomo (Formally PIWIK)
+    • Google Analytics
+    • Microsoft Internet Information Services (IIS)
+    • Linux with Apache Server (for testing before going live)
+    • Computer/Network Security: Burp, Wireshark, and Packet Tracing.
+    • MS Office programs including advanced skills such as physics tables with Excel.
+    • Adobe Photoshop and Premier.
+      
+work Experience
+I-AM Retailer Solutions Inc.	Mississauga, ON, Canada
+IT & Media Arts	June 2012 – Present
+Shoppers Drug Mart	Ottawa, ON, Canada
+Cashier &, Merchandiser (also assist in pharmacy)	May 2016- Present
+Dominion Voting Systems	Toronto, ON, Canada
+Field Training and Support Representative	May 2018 – June 2018
+Field Service Representative	October 2014 & June 2014
+Canada Computers	Mississauga ON, Canadas
+Customer Service Representative	June 2014 – August 2015
+Elections Canada	Toronto, ON, Canada
+Deputy Returning Officer	September 2014
+Fox Wireless	Newmarket, ON, Canada
+Sales Associate	May 2008 – August 2008
+
+Volunteering
+Note Taker: for students with disabilities (PMC centre) at Carleton University 	multiple courses and terms	
+Canadian Feed the Children: General Member at Carleton University	2012 - 2013
+Aurora Food Pantry: volunteer at Food Bank	2008
+Out of the Cold program for the homeless: volunteer 	2000 - 2003
+Terry Fox Run: occasional donor and participant
+Folding @ Home: occasionally donate my unused CPU and/or GPU resources to the researchers
+
+Activities
+Recreational tennis, jogging. Cycle as a means of transportation. Play guitar in private. Hangout with friends and my girlfriend.
+
+Work References
+Eddie Chin, Canada Computers Ltd. Mississauga: Supervisor
+Phone: 647-460-0790
+
+Don Gilpin, President, Abaan & Associates Inc.
+Email: dong@abaanassociates.com
+
+Personal References
+Will Prado, Colleague on Software Engineering Group Project
+LinkedIn: https://www.linkedin.com/in/william-prado 
+Email: WillPrado@cmail.carleton.ca 
+
+Chris Henderson
+Phone: 1-613-761-2623
+Email: chenderson@delphi.ca 
+Linkedin: http://ca.linkedin.com/pub/chris-henderson/13/2b9/a6a  
+Web: http://www.lumosenergy.com/professionalbiography.html 
+
+Kenneth Evens, Director of Programs and Business Development
+Email: Kevans@visionengineered.com 
+LinkedIn: https://www.linkedin.com/in/kennethjevans/
+Phone: 1-614-586-6996

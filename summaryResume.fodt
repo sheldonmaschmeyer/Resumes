@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ooo="http://openoffice.org/2004/office" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><dc:title>Sheldon Maschmeyer&apos;s Resume</dc:title><meta:editing-cycles>1</meta:editing-cycles><meta:creation-date>2019-12-11T11:12:24.397000000</meta:creation-date><dc:language>en-CA</dc:language><meta:editing-duration>P0D</meta:editing-duration><meta:generator>LibreOffice/6.3.3.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="4" meta:paragraph-count="116" meta:word-count="1051" meta:character-count="7412" meta:non-whitespace-character-count="6492"/><meta:user-defined meta:name="AppVersion">16.0000</meta:user-defined><meta:user-defined meta:name="DocSecurity" meta:value-type="float">0</meta:user-defined><meta:user-defined meta:name="HyperlinksChanged" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="LinksUpToDate" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="ScaleCrop" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="ShareDoc" meta:value-type="boolean">false</meta:user-defined><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Normal" xlink:href=""/></office:meta>
+ <office:meta><dc:title>Sheldon Maschmeyer&apos;s Resume</dc:title><meta:editing-cycles>1</meta:editing-cycles><meta:creation-date>2019-12-11T11:12:24.397000000</meta:creation-date><dc:language>en-CA</dc:language><meta:editing-duration>P0D</meta:editing-duration><meta:generator>LibreOffice/6.3.4.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="2" meta:paragraph-count="71" meta:word-count="432" meta:character-count="3180" meta:non-whitespace-character-count="2823"/><meta:user-defined meta:name="AppVersion">16.0000</meta:user-defined><meta:user-defined meta:name="DocSecurity" meta:value-type="float">0</meta:user-defined><meta:user-defined meta:name="HyperlinksChanged" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="LinksUpToDate" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="ScaleCrop" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="ShareDoc" meta:value-type="boolean">false</meta:user-defined><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Normal" xlink:href=""/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">2</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">15422</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">31016</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">13361</config:config-item>
@@ -13,12 +13,12 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">7271</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">97464</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">8430</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">23019</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">2</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">15422</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">31014</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">13361</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">28781</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -72,7 +72,7 @@
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">true</config:config-item>
    <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">2814532</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">3045023</config:config-item>
    <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
    <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
    <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
@@ -132,14 +132,14 @@
  </office:scripts>
  <office:font-face-decls>
   <style:font-face style:name="Helvetica" svg:font-family="Helvetica, Arial, sans-serif"/>
-  <style:font-face style:name="Calibri2" svg:font-family="Calibri" style:font-family-generic="swiss"/>
+  <style:font-face style:name="Calibri1" svg:font-family="Calibri" style:font-family-generic="swiss"/>
   <style:font-face style:name="Lucida Sans" svg:font-family="&apos;Lucida Sans&apos;" style:font-family-generic="swiss"/>
   <style:font-face style:name="Arial" svg:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Calibri" svg:font-family="Calibri" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Georgia" svg:font-family="Georgia" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="OpenSymbol" svg:font-family="OpenSymbol" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Segoe UI" svg:font-family="&apos;Segoe UI&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
-  <style:font-face style:name="Calibri1" svg:font-family="Calibri" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Calibri2" svg:font-family="Calibri" style:font-family-generic="swiss" style:font-pitch="variable"/>
   <style:font-face style:name="Calibri3" svg:font-family="Calibri" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="Courier New" svg:font-family="&apos;Courier New&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="Lohit Devanagari" svg:font-family="&apos;Lohit Devanagari&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
@@ -157,7 +157,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" style:font-name="Calibri" fo:font-size="11pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="SimSun" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="US" style:font-name-complex="Tahoma" style:font-size-complex="11pt" style:language-complex="ar" style:country-complex="SA"/>
@@ -965,11 +965,11 @@
  <office:automatic-styles>
   <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Footer">
    <style:paragraph-properties fo:text-align="end" style:justify-single-word="false"/>
-   <style:text-properties style:font-name="Calibri1"/>
+   <style:text-properties style:font-name="Calibri2"/>
   </style:style>
   <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Footer">
    <style:paragraph-properties fo:text-align="end" style:justify-single-word="false"/>
-   <style:text-properties style:font-name="Calibri1"/>
+   <style:text-properties style:font-name="Calibri2"/>
   </style:style>
   <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Footer">
    <style:paragraph-properties fo:text-align="end" style:justify-single-word="false"/>
@@ -992,35 +992,30 @@
   </style:style>
   <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0cm" loext:contextual-spacing="false"/>
-   <style:text-properties fo:background-color="transparent"/>
+   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:background-color="transparent" style:font-name-complex="Calibri3"/>
   </style:style>
-  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="List_20_Paragraph">
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0cm" loext:contextual-spacing="false"/>
    <style:text-properties fo:background-color="transparent"/>
   </style:style>
   <style:style style:name="P11" style:family="paragraph" style:parent-style-name="List_20_Paragraph">
    <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0cm" loext:contextual-spacing="false"/>
-   <style:text-properties fo:color="#212529" style:font-name="Calibri" fo:background-color="transparent" style:font-name-complex="Calibri3"/>
+   <style:text-properties fo:background-color="transparent"/>
   </style:style>
   <style:style style:name="P12" style:family="paragraph" style:parent-style-name="List_20_Paragraph">
    <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0cm" loext:contextual-spacing="false"/>
+   <style:text-properties fo:color="#212529" style:font-name="Calibri" fo:background-color="transparent" style:font-name-complex="Calibri3"/>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="List_20_Paragraph">
+   <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0cm" loext:contextual-spacing="false"/>
    <style:text-properties style:font-name="Calibri" fo:background-color="transparent" style:font-name-complex="Calibri3"/>
   </style:style>
-  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0cm" loext:contextual-spacing="false"/>
   </style:style>
-  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false"/>
    <style:text-properties style:font-name="Calibri" fo:font-size="11pt" fo:language="en" fo:country="CA" fo:background-color="transparent" style:font-size-asian="11pt" style:font-name-complex="Calibri3" style:font-size-complex="11pt"/>
-  </style:style>
-  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:vertical-align="baseline">
-    <style:tab-stops>
-     <style:tab-stop style:position="-0.071cm"/>
-     <style:tab-stop style:position="0.501cm"/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-   <style:text-properties style:font-name="Calibri" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002440cf" officeooo:paragraph-rsid="002440cf" style:letter-kerning="false" fo:background-color="transparent" style:font-name-asian="Times New Roman" style:language-asian="en" style:country-asian="CA" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri3" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:vertical-align="baseline">
@@ -1029,7 +1024,7 @@
      <style:tab-stop style:position="0.501cm"/>
     </style:tab-stops>
    </style:paragraph-properties>
-   <style:text-properties fo:text-transform="uppercase" fo:color="#000000" style:font-name="Calibri" fo:font-size="11pt" fo:letter-spacing="0.044cm" fo:language="en" fo:country="CA" fo:font-weight="bold" officeooo:rsid="00225522" officeooo:paragraph-rsid="002440cf" style:letter-kerning="false" fo:background-color="transparent" style:font-name-asian="Times New Roman" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="CA" style:font-weight-asian="bold" style:font-name-complex="Calibri3" style:font-size-complex="11pt" style:font-weight-complex="bold"/>
+   <style:text-properties style:font-name="Calibri" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002440cf" officeooo:paragraph-rsid="002440cf" style:letter-kerning="false" fo:background-color="transparent" style:font-name-asian="Times New Roman" style:language-asian="en" style:country-asian="CA" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri3" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:vertical-align="baseline">
@@ -1038,221 +1033,9 @@
      <style:tab-stop style:position="0.501cm"/>
     </style:tab-stops>
    </style:paragraph-properties>
-   <style:text-properties fo:text-transform="uppercase" fo:color="#000000" style:font-name="Calibri" fo:font-size="11pt" fo:letter-spacing="0.044cm" fo:language="en" fo:country="CA" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="00225522" officeooo:paragraph-rsid="002440cf" style:letter-kerning="false" fo:background-color="transparent" style:font-name-asian="Times New Roman" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="CA" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Calibri3" style:font-size-complex="11pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+   <style:text-properties fo:text-transform="uppercase" fo:color="#000000" style:font-name="Calibri" fo:font-size="11pt" fo:letter-spacing="0.044cm" fo:language="en" fo:country="CA" fo:font-weight="bold" officeooo:rsid="00225522" officeooo:paragraph-rsid="002440cf" style:letter-kerning="false" fo:background-color="transparent" style:font-name-asian="Times New Roman" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="CA" style:font-weight-asian="bold" style:font-name-complex="Calibri3" style:font-size-complex="11pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="List_20_Paragraph">
-   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false"/>
-   <style:text-properties fo:background-color="transparent"/>
-  </style:style>
-  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="List_20_Paragraph">
-   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false">
-    <style:tab-stops/>
-   </style:paragraph-properties>
-   <style:text-properties fo:background-color="transparent"/>
-  </style:style>
-  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="List_20_Paragraph">
-   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false"/>
-   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:background-color="transparent" style:font-name-complex="Calibri3"/>
-  </style:style>
-  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="List_20_Paragraph">
-   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false">
-    <style:tab-stops/>
-   </style:paragraph-properties>
-   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:background-color="transparent" style:font-name-complex="Calibri3"/>
-  </style:style>
-  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="List_20_Paragraph">
-   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false"/>
-   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" style:font-name-complex="Calibri3"/>
-  </style:style>
-  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false"/>
-  </style:style>
-  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false"/>
-   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" style:font-name-complex="Calibri3"/>
-  </style:style>
-  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false">
-    <style:tab-stops/>
-   </style:paragraph-properties>
-   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:background-color="transparent" style:font-name-complex="Calibri3"/>
-  </style:style>
-  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:vertical-align="baseline">
-    <style:tab-stops>
-     <style:tab-stop style:position="5.212cm"/>
-     <style:tab-stop style:position="8.731cm" style:type="center"/>
-     <style:tab-stop style:position="17.463cm" style:type="right"/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-   <style:text-properties style:font-name="Calibri" style:letter-kerning="false" fo:background-color="transparent" style:font-name-asian="Times New Roman" style:language-asian="en" style:country-asian="CA" style:font-name-complex="Calibri3"/>
-  </style:style>
-  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:vertical-align="baseline">
-    <style:tab-stops>
-     <style:tab-stop style:position="-0.071cm"/>
-     <style:tab-stop style:position="0.501cm"/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-   <style:text-properties style:font-name="Calibri" fo:font-style="italic" fo:font-weight="bold" style:letter-kerning="false" fo:background-color="transparent" style:font-name-asian="Times New Roman" style:language-asian="en" style:country-asian="CA" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-name-complex="Calibri3" style:font-style-complex="italic" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:vertical-align="baseline">
-    <style:tab-stops>
-     <style:tab-stop style:position="-0.071cm"/>
-     <style:tab-stop style:position="0.501cm"/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-   <style:text-properties style:font-name="Calibri" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002440cf" officeooo:paragraph-rsid="002440cf" style:letter-kerning="false" fo:background-color="transparent" style:font-name-asian="Times New Roman" style:language-asian="en" style:country-asian="CA" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri3" style:font-style-complex="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:vertical-align="baseline">
-    <style:tab-stops>
-     <style:tab-stop style:position="-0.071cm"/>
-     <style:tab-stop style:position="0.501cm"/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-   <style:text-properties style:font-name="Calibri" fo:font-style="normal" fo:font-weight="normal" officeooo:paragraph-rsid="002440cf" style:letter-kerning="false" fo:background-color="transparent" style:font-name-asian="Times New Roman" style:language-asian="en" style:country-asian="CA" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri3" style:font-style-complex="normal" style:font-weight-complex="normal"/>
-  </style:style>
-  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false">
-    <style:tab-stops/>
-   </style:paragraph-properties>
-   <style:text-properties fo:background-color="transparent"/>
-  </style:style>
-  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:vertical-align="baseline">
-    <style:tab-stops/>
-   </style:paragraph-properties>
-   <style:text-properties fo:background-color="transparent"/>
-  </style:style>
-  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:vertical-align="baseline">
-    <style:tab-stops>
-     <style:tab-stop style:position="5.212cm"/>
-     <style:tab-stop style:position="8.731cm" style:type="center"/>
-     <style:tab-stop style:position="17.463cm" style:type="right"/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-   <style:text-properties fo:background-color="transparent"/>
-  </style:style>
-  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:keep-with-next="always" style:vertical-align="baseline">
-    <style:tab-stops>
-     <style:tab-stop style:position="-0.071cm"/>
-     <style:tab-stop style:position="0.501cm"/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-   <style:text-properties style:font-name="Calibri" style:letter-kerning="false" fo:background-color="transparent" style:font-name-asian="Times New Roman" style:language-asian="en" style:country-asian="CA" style:font-name-complex="Calibri3"/>
-  </style:style>
-  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:keep-with-next="always" style:vertical-align="baseline">
-    <style:tab-stops>
-     <style:tab-stop style:position="-0.071cm"/>
-     <style:tab-stop style:position="0.501cm"/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-   <style:text-properties style:font-name="Calibri" fo:font-style="italic" fo:font-weight="bold" style:letter-kerning="false" fo:background-color="transparent" style:font-name-asian="Times New Roman" style:language-asian="en" style:country-asian="CA" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-name-complex="Calibri3" style:font-style-complex="italic" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:keep-with-next="always" style:vertical-align="baseline">
-    <style:tab-stops>
-     <style:tab-stop style:position="-0.071cm"/>
-     <style:tab-stop style:position="0.501cm"/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-   <style:text-properties fo:background-color="transparent"/>
-  </style:style>
-  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="List_20_Paragraph">
-   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:background-color="transparent" style:font-name-complex="Calibri3"/>
-  </style:style>
-  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="List_20_Paragraph">
-   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:background-color="transparent" style:font-name-complex="Calibri3"/>
-  </style:style>
-  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="List_20_Paragraph">
-   <style:text-properties fo:background-color="transparent"/>
-  </style:style>
-  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Name" style:master-page-name="">
-   <style:paragraph-properties style:page-number="auto"/>
-   <style:text-properties fo:background-color="transparent"/>
-  </style:style>
-  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Name" style:master-page-name="">
-   <style:paragraph-properties style:page-number="auto"/>
-   <style:text-properties fo:font-size="16pt" fo:language="en" fo:country="CA" fo:background-color="transparent" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
-  </style:style>
-  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" style:font-name-complex="Calibri3"/>
-  </style:style>
-  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:background-color="#ffff00" style:font-name-complex="Calibri3"/>
-  </style:style>
-  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties>
-    <style:tab-stops/>
-   </style:paragraph-properties>
-   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:font-weight="bold" fo:background-color="transparent" style:font-weight-asian="bold" style:font-name-complex="Calibri3" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties>
-    <style:tab-stops/>
-   </style:paragraph-properties>
-   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:background-color="transparent" style:font-name-complex="Calibri3"/>
-  </style:style>
-  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties>
-    <style:tab-stops/>
-   </style:paragraph-properties>
-   <style:text-properties fo:background-color="transparent"/>
-  </style:style>
-  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:paragraph-rsid="00225522"/>
-  </style:style>
-  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties fo:font-weight="bold" officeooo:rsid="00225522" officeooo:paragraph-rsid="00225522" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:paragraph-rsid="002440cf"/>
-  </style:style>
-  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false"/>
-   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:background-color="transparent" style:font-name-complex="Calibri3"/>
-  </style:style>
-  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-left="0.501cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-indent="-0.501cm" style:auto-text-indent="false" fo:keep-with-next="always" style:vertical-align="baseline">
-    <style:tab-stops>
-     <style:tab-stop style:position="-0.071cm"/>
-     <style:tab-stop style:position="0.501cm"/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-   <style:text-properties fo:background-color="transparent"/>
-  </style:style>
-  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-left="0.501cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-indent="-0.501cm" style:auto-text-indent="false" fo:keep-with-next="always" style:vertical-align="baseline">
-    <style:tab-stops>
-     <style:tab-stop style:position="-0.071cm"/>
-     <style:tab-stop style:position="0.501cm"/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-   <style:text-properties style:font-name="Calibri" style:letter-kerning="false" fo:background-color="transparent" style:font-name-asian="Times New Roman" style:language-asian="en" style:country-asian="CA" style:font-name-complex="Calibri3"/>
-  </style:style>
-  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-left="0.501cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-indent="-0.501cm" style:auto-text-indent="false" style:vertical-align="baseline">
-    <style:tab-stops>
-     <style:tab-stop style:position="-0.071cm"/>
-     <style:tab-stop style:position="0.501cm"/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-   <style:text-properties style:font-name="Calibri" style:letter-kerning="false" fo:background-color="transparent" style:font-name-asian="Times New Roman" style:language-asian="en" style:country-asian="CA" style:font-name-complex="Calibri3"/>
-  </style:style>
-  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="List_20_Paragraph">
-   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false"/>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#232323" style:font-name="Helvetica" fo:font-size="11pt" fo:letter-spacing="normal" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" fo:background-color="transparent" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
-  </style:style>
-  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Name" style:master-page-name="Standard">
-   <style:paragraph-properties style:page-number="auto"/>
-   <style:text-properties fo:font-size="16pt" fo:language="en" fo:country="CA" fo:background-color="transparent" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
-  </style:style>
-  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:vertical-align="baseline">
     <style:tab-stops>
      <style:tab-stop style:position="-0.071cm"/>
@@ -1261,7 +1044,7 @@
    </style:paragraph-properties>
    <style:text-properties fo:text-transform="uppercase" fo:color="#000000" style:font-name="Calibri" fo:font-size="11pt" fo:letter-spacing="0.044cm" fo:language="en" fo:country="CA" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="00225522" officeooo:paragraph-rsid="002440cf" style:letter-kerning="false" fo:background-color="transparent" style:font-name-asian="Times New Roman" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="CA" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Calibri3" style:font-size-complex="11pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:vertical-align="baseline">
     <style:tab-stops>
      <style:tab-stop style:position="-0.071cm"/>
@@ -1270,7 +1053,25 @@
    </style:paragraph-properties>
    <style:text-properties fo:text-transform="uppercase" fo:color="#000000" style:font-name="Calibri" fo:font-size="11pt" fo:letter-spacing="0.044cm" fo:language="en" fo:country="CA" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="00225522" officeooo:paragraph-rsid="002af244" style:letter-kerning="false" fo:background-color="transparent" style:font-name-asian="Times New Roman" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="CA" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Calibri3" style:font-size-complex="11pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:vertical-align="baseline">
+    <style:tab-stops>
+     <style:tab-stop style:position="-0.071cm"/>
+     <style:tab-stop style:position="0.501cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:text-transform="uppercase" fo:color="#000000" style:font-name="Calibri" fo:font-size="11pt" fo:letter-spacing="0.044cm" fo:language="en" fo:country="CA" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="002cea7b" officeooo:paragraph-rsid="002cea7b" style:letter-kerning="false" fo:background-color="transparent" style:font-name-asian="Times New Roman" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="CA" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Calibri3" style:font-size-complex="11pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:vertical-align="baseline">
+    <style:tab-stops>
+     <style:tab-stop style:position="-0.071cm"/>
+     <style:tab-stop style:position="0.501cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:text-transform="uppercase" fo:color="#000000" style:font-name="Calibri2" fo:font-size="11pt" fo:letter-spacing="0.044cm" fo:language="en" fo:country="CA" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="00225522" officeooo:paragraph-rsid="002af244" style:letter-kerning="false" fo:background-color="transparent" style:font-name-asian="Times New Roman" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="CA" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Calibri3" style:font-size-complex="11pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:vertical-align="baseline">
     <style:tab-stops>
      <style:tab-stop style:position="-0.071cm"/>
@@ -1279,76 +1080,147 @@
    </style:paragraph-properties>
    <style:text-properties officeooo:paragraph-rsid="002af244"/>
   </style:style>
-  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0cm" loext:contextual-spacing="false"/>
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:vertical-align="baseline">
+    <style:tab-stops>
+     <style:tab-stop style:position="-0.071cm"/>
+     <style:tab-stop style:position="0.501cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Calibri2" officeooo:paragraph-rsid="002af244"/>
+  </style:style>
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="List_20_Paragraph">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false"/>
+   <style:text-properties fo:background-color="transparent"/>
+  </style:style>
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="List_20_Paragraph">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties fo:background-color="transparent"/>
+  </style:style>
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="List_20_Paragraph">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false"/>
    <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:background-color="transparent" style:font-name-complex="Calibri3"/>
   </style:style>
-  <style:style style:name="P59" style:family="paragraph" style:parent-style-name="List_20_Paragraph">
-   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" officeooo:rsid="002864e1" officeooo:paragraph-rsid="002864e1" fo:background-color="transparent" style:font-name-complex="Calibri3"/>
-  </style:style>
-  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="WWNum2">
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="List_20_Paragraph">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:background-color="transparent" style:font-name-complex="Calibri3"/>
   </style:style>
-  <style:style style:name="P61" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="WWNum2">
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="List_20_Paragraph">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" officeooo:paragraph-rsid="002af244" fo:background-color="transparent" style:font-name-complex="Calibri3"/>
   </style:style>
-  <style:style style:name="P62" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="WWNum3">
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="List_20_Paragraph">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" officeooo:rsid="002af244" officeooo:paragraph-rsid="002cea7b" fo:background-color="transparent" style:font-name-complex="Calibri3"/>
+  </style:style>
+  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="List_20_Paragraph">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" officeooo:rsid="002cea7b" officeooo:paragraph-rsid="002cea7b" fo:background-color="transparent" style:font-name-complex="Calibri3"/>
+  </style:style>
+  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="List_20_Paragraph">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false"/>
+   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" style:font-name-complex="Calibri3"/>
+  </style:style>
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="List_20_Paragraph">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false"/>
+   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" style:font-name-complex="Calibri3"/>
+  </style:style>
+  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:background-color="transparent" style:font-name-complex="Calibri3"/>
   </style:style>
-  <style:style style:name="P63" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="WWNum3">
-   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false"/>
-   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:background-color="transparent" style:font-name-complex="Calibri3"/>
-  </style:style>
-  <style:style style:name="P64" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="WWNum4">
-   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false"/>
-   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:background-color="transparent" style:font-name-complex="Calibri3"/>
-  </style:style>
-  <style:style style:name="P65" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="WWNum5">
-   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false"/>
-   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:background-color="transparent" style:font-name-complex="Calibri3"/>
-  </style:style>
-  <style:style style:name="P66" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="WWNum2">
-   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false">
-    <style:tab-stops/>
-   </style:paragraph-properties>
-  </style:style>
-  <style:style style:name="P67" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties fo:font-weight="bold" officeooo:rsid="00225522" officeooo:paragraph-rsid="002af244" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="P68" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:paragraph-rsid="002af244"/>
-  </style:style>
-  <style:style style:name="P69" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:paragraph-rsid="002440cf"/>
-  </style:style>
-  <style:style style:name="P70" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum2">
-   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false">
-    <style:tab-stops/>
-   </style:paragraph-properties>
-   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:background-color="transparent" style:font-name-complex="Calibri3"/>
-  </style:style>
-  <style:style style:name="P71" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum2">
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" officeooo:paragraph-rsid="002af244" fo:background-color="transparent" style:font-name-complex="Calibri3"/>
   </style:style>
-  <style:style style:name="P72" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum2">
+  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" officeooo:rsid="002a2fbd" officeooo:paragraph-rsid="002af244" fo:background-color="transparent" style:font-name-complex="Calibri3"/>
   </style:style>
-  <style:style style:name="P73" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:vertical-align="baseline">
+    <style:tab-stops>
+     <style:tab-stop style:position="5.212cm"/>
+     <style:tab-stop style:position="8.731cm" style:type="center"/>
+     <style:tab-stop style:position="17.463cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Calibri" style:letter-kerning="false" fo:background-color="transparent" style:font-name-asian="Times New Roman" style:language-asian="en" style:country-asian="CA" style:font-name-complex="Calibri3"/>
+  </style:style>
+  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:vertical-align="baseline">
+    <style:tab-stops>
+     <style:tab-stop style:position="-0.071cm"/>
+     <style:tab-stop style:position="0.501cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Calibri" fo:font-style="italic" fo:font-weight="bold" style:letter-kerning="false" fo:background-color="transparent" style:font-name-asian="Times New Roman" style:language-asian="en" style:country-asian="CA" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-name-complex="Calibri3" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:vertical-align="baseline">
+    <style:tab-stops>
+     <style:tab-stop style:position="-0.071cm"/>
+     <style:tab-stop style:position="0.501cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Calibri" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002440cf" officeooo:paragraph-rsid="002440cf" style:letter-kerning="false" fo:background-color="transparent" style:font-name-asian="Times New Roman" style:language-asian="en" style:country-asian="CA" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri3" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:vertical-align="baseline">
+    <style:tab-stops>
+     <style:tab-stop style:position="-0.071cm"/>
+     <style:tab-stop style:position="0.501cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Calibri" fo:font-style="normal" fo:font-weight="normal" officeooo:paragraph-rsid="002440cf" style:letter-kerning="false" fo:background-color="transparent" style:font-name-asian="Times New Roman" style:language-asian="en" style:country-asian="CA" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri3" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties fo:background-color="transparent"/>
+  </style:style>
+  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:vertical-align="baseline">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties fo:background-color="transparent"/>
+  </style:style>
+  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:vertical-align="baseline">
+    <style:tab-stops>
+     <style:tab-stop style:position="5.212cm"/>
+     <style:tab-stop style:position="8.731cm" style:type="center"/>
+     <style:tab-stop style:position="17.463cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:background-color="transparent"/>
+  </style:style>
+  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" style:vertical-align="baseline">
     <style:tab-stops>
      <style:tab-stop style:position="-0.071cm"/>
@@ -1357,7 +1229,34 @@
    </style:paragraph-properties>
    <style:text-properties officeooo:paragraph-rsid="002440cf"/>
   </style:style>
-  <style:style style:name="P74" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:keep-with-next="always" style:vertical-align="baseline">
+    <style:tab-stops>
+     <style:tab-stop style:position="-0.071cm"/>
+     <style:tab-stop style:position="0.501cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Calibri" style:letter-kerning="false" fo:background-color="transparent" style:font-name-asian="Times New Roman" style:language-asian="en" style:country-asian="CA" style:font-name-complex="Calibri3"/>
+  </style:style>
+  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:keep-with-next="always" style:vertical-align="baseline">
+    <style:tab-stops>
+     <style:tab-stop style:position="-0.071cm"/>
+     <style:tab-stop style:position="0.501cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Calibri" fo:font-style="italic" fo:font-weight="bold" style:letter-kerning="false" fo:background-color="transparent" style:font-name-asian="Times New Roman" style:language-asian="en" style:country-asian="CA" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-name-complex="Calibri3" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:keep-with-next="always" style:vertical-align="baseline">
+    <style:tab-stops>
+     <style:tab-stop style:position="-0.071cm"/>
+     <style:tab-stop style:position="0.501cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:background-color="transparent"/>
+  </style:style>
+  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" style:vertical-align="baseline" style:writing-mode="lr-tb">
     <style:tab-stops>
      <style:tab-stop style:position="0.706cm"/>
@@ -1365,15 +1264,7 @@
    </style:paragraph-properties>
    <style:text-properties style:font-name="Calibri" fo:font-style="normal" fo:font-weight="normal" officeooo:paragraph-rsid="002af244" style:letter-kerning="false" fo:background-color="transparent" style:font-name-asian="Times New Roman" style:language-asian="en" style:country-asian="CA" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri3" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P75" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" style:writing-mode="lr-tb">
-    <style:tab-stops>
-     <style:tab-stop style:position="0.706cm"/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-   <style:text-properties fo:color="#000000" style:font-name="Calibri2" officeooo:paragraph-rsid="002af244" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Devanagari" style:language-complex="hi" style:country-complex="IN"/>
-  </style:style>
-  <style:style style:name="P76" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" style:writing-mode="lr-tb">
     <style:tab-stops>
      <style:tab-stop style:position="0.706cm"/>
@@ -1381,7 +1272,39 @@
    </style:paragraph-properties>
    <style:text-properties fo:color="#000000" style:font-name="Calibri1" officeooo:paragraph-rsid="002af244" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Devanagari" style:language-complex="hi" style:country-complex="IN"/>
   </style:style>
-  <style:style style:name="P77" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="0.706cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:color="#000000" style:font-name="Calibri2" officeooo:paragraph-rsid="002af244" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Devanagari" style:language-complex="hi" style:country-complex="IN"/>
+  </style:style>
+  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="0.706cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:color="#000000" style:font-name="Calibri2" fo:font-weight="bold" officeooo:paragraph-rsid="002af244" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:language-asian="zh" style:country-asian="CN" style:font-weight-asian="bold" style:font-name-complex="Lohit Devanagari" style:language-complex="hi" style:country-complex="IN" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" style:vertical-align="baseline" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="0.706cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:color="#000000" style:font-name="Calibri2" fo:font-style="normal" fo:font-weight="normal" officeooo:paragraph-rsid="002cea7b" style:letter-kerning="true" fo:background-color="transparent" style:font-name-asian="Noto Serif CJK SC" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lohit Devanagari" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" style:vertical-align="baseline" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="0.706cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:color="#000000" style:font-name="Calibri" fo:font-style="normal" fo:font-weight="normal" officeooo:paragraph-rsid="002cea7b" style:letter-kerning="false" fo:background-color="transparent" style:font-name-asian="Times New Roman" style:language-asian="en" style:country-asian="CA" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri3" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" style:writing-mode="lr-tb">
     <style:tab-stops>
      <style:tab-stop style:position="0.706cm"/>
@@ -1389,15 +1312,115 @@
    </style:paragraph-properties>
    <style:text-properties officeooo:paragraph-rsid="002af244"/>
   </style:style>
-  <style:style style:name="P78" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" style:writing-mode="lr-tb">
     <style:tab-stops>
      <style:tab-stop style:position="0.706cm"/>
     </style:tab-stops>
    </style:paragraph-properties>
-   <style:text-properties style:font-name="Calibri1" officeooo:paragraph-rsid="002af244"/>
+   <style:text-properties officeooo:paragraph-rsid="002cea7b"/>
   </style:style>
-  <style:style style:name="P79" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum6">
+  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="0.706cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Calibri2" officeooo:paragraph-rsid="002af244"/>
+  </style:style>
+  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="0.706cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Calibri2" officeooo:paragraph-rsid="002cea7b"/>
+  </style:style>
+  <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="0.706cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Calibri2" officeooo:paragraph-rsid="002af244" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Devanagari"/>
+  </style:style>
+  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="List_20_Paragraph">
+   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:background-color="transparent" style:font-name-complex="Calibri3"/>
+  </style:style>
+  <style:style style:name="P61" style:family="paragraph" style:parent-style-name="List_20_Paragraph">
+   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:background-color="transparent" style:font-name-complex="Calibri3"/>
+  </style:style>
+  <style:style style:name="P62" style:family="paragraph" style:parent-style-name="List_20_Paragraph">
+   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" officeooo:rsid="002864e1" officeooo:paragraph-rsid="002864e1" fo:background-color="transparent" style:font-name-complex="Calibri3"/>
+  </style:style>
+  <style:style style:name="P63" style:family="paragraph" style:parent-style-name="List_20_Paragraph">
+   <style:text-properties fo:background-color="transparent"/>
+  </style:style>
+  <style:style style:name="P64" style:family="paragraph" style:parent-style-name="Name" style:master-page-name="">
+   <style:paragraph-properties style:page-number="auto"/>
+   <style:text-properties fo:background-color="transparent"/>
+  </style:style>
+  <style:style style:name="P65" style:family="paragraph" style:parent-style-name="Name" style:master-page-name="">
+   <style:paragraph-properties style:page-number="auto"/>
+   <style:text-properties fo:font-size="16pt" fo:language="en" fo:country="CA" fo:background-color="transparent" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="P66" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" style:font-name-complex="Calibri3"/>
+  </style:style>
+  <style:style style:name="P67" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:background-color="#ffff00" style:font-name-complex="Calibri3"/>
+  </style:style>
+  <style:style style:name="P68" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties>
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:font-weight="bold" fo:background-color="transparent" style:font-weight-asian="bold" style:font-name-complex="Calibri3" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P69" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties>
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:background-color="transparent" style:font-name-complex="Calibri3"/>
+  </style:style>
+  <style:style style:name="P70" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties>
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties fo:background-color="transparent"/>
+  </style:style>
+  <style:style style:name="P71" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:paragraph-rsid="00225522"/>
+  </style:style>
+  <style:style style:name="P72" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="00225522" officeooo:paragraph-rsid="00225522" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P73" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="00225522" officeooo:paragraph-rsid="002af244" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P74" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:paragraph-rsid="002440cf"/>
+  </style:style>
+  <style:style style:name="P75" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:paragraph-rsid="002af244"/>
+  </style:style>
+  <style:style style:name="P76" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:line-height="100%"/>
+   <style:text-properties officeooo:paragraph-rsid="002440cf"/>
+  </style:style>
+  <style:style style:name="P77" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false"/>
+   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:background-color="transparent" style:font-name-complex="Calibri3"/>
+  </style:style>
+  <style:style style:name="P78" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0.501cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-indent="-0.501cm" style:auto-text-indent="false" fo:keep-with-next="always" style:vertical-align="baseline">
+    <style:tab-stops>
+     <style:tab-stop style:position="-0.071cm"/>
+     <style:tab-stop style:position="0.501cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:background-color="transparent"/>
+  </style:style>
+  <style:style style:name="P79" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-left="0.501cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-indent="-0.501cm" style:auto-text-indent="false" fo:keep-with-next="always" style:vertical-align="baseline">
     <style:tab-stops>
      <style:tab-stop style:position="-0.071cm"/>
@@ -1406,7 +1429,7 @@
    </style:paragraph-properties>
    <style:text-properties style:font-name="Calibri" style:letter-kerning="false" fo:background-color="transparent" style:font-name-asian="Times New Roman" style:language-asian="en" style:country-asian="CA" style:font-name-complex="Calibri3"/>
   </style:style>
-  <style:style style:name="P80" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum6">
+  <style:style style:name="P80" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-left="0.501cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-indent="-0.501cm" style:auto-text-indent="false" style:vertical-align="baseline">
     <style:tab-stops>
      <style:tab-stop style:position="-0.071cm"/>
@@ -1414,6 +1437,63 @@
     </style:tab-stops>
    </style:paragraph-properties>
    <style:text-properties style:font-name="Calibri" style:letter-kerning="false" fo:background-color="transparent" style:font-name-asian="Times New Roman" style:language-asian="en" style:country-asian="CA" style:font-name-complex="Calibri3"/>
+  </style:style>
+  <style:style style:name="P81" style:family="paragraph" style:parent-style-name="List_20_Paragraph">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:orphans="2" fo:widows="2" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#232323" style:font-name="Helvetica" fo:font-size="11pt" fo:letter-spacing="normal" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" fo:background-color="transparent" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
+  </style:style>
+  <style:style style:name="P82" style:family="paragraph" style:parent-style-name="Name" style:master-page-name="Standard">
+   <style:paragraph-properties style:page-number="auto"/>
+   <style:text-properties fo:font-size="16pt" fo:language="en" fo:country="CA" fo:background-color="transparent" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="P83" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="WWNum2">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:background-color="transparent" style:font-name-complex="Calibri3"/>
+  </style:style>
+  <style:style style:name="P84" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="WWNum2">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" officeooo:rsid="002af244" officeooo:paragraph-rsid="002cea7b" fo:background-color="transparent" style:font-name-complex="Calibri3"/>
+  </style:style>
+  <style:style style:name="P85" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="WWNum2">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" officeooo:rsid="002cea7b" officeooo:paragraph-rsid="002cea7b" fo:background-color="transparent" style:font-name-complex="Calibri3"/>
+  </style:style>
+  <style:style style:name="P86" style:family="paragraph" style:parent-style-name="List_20_Paragraph" style:list-style-name="WWNum2">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P87" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum2">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" officeooo:rsid="002a2fbd" officeooo:paragraph-rsid="002af244" fo:background-color="transparent" style:font-name-complex="Calibri3"/>
+  </style:style>
+  <style:style style:name="P88" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum2">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:background-color="transparent" style:font-name-complex="Calibri3"/>
+  </style:style>
+  <style:style style:name="P89" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum2">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" officeooo:paragraph-rsid="002af244" fo:background-color="transparent" style:font-name-complex="Calibri3"/>
+  </style:style>
+  <style:style style:name="P90" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" style:writing-mode="lr-tb">
+    <style:tab-stops>
+     <style:tab-stop style:position="0.706cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:color="#000000" style:font-name="Calibri2" officeooo:paragraph-rsid="002af244" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Devanagari" style:language-complex="hi" style:country-complex="IN"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties fo:font-size="16pt" fo:language="en" fo:country="CA" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
@@ -1431,205 +1511,250 @@
    <style:text-properties style:font-name="Calibri" fo:font-size="11pt" fo:language="en" fo:country="CA" fo:background-color="#ffff00" loext:char-shading-value="0" style:font-size-asian="11pt" style:font-name-complex="Calibri3" style:font-size-complex="11pt"/>
   </style:style>
   <style:style style:name="T6" style:family="text">
-   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:background-color="#ffff00" loext:char-shading-value="0" style:font-name-complex="Calibri3"/>
+   <style:text-properties style:font-name="Calibri" fo:font-size="11pt" fo:language="en" fo:country="CA" fo:background-color="transparent" loext:char-shading-value="0" style:font-size-asian="11pt" style:font-name-complex="Calibri3" style:font-size-complex="11pt"/>
   </style:style>
   <style:style style:name="T7" style:family="text">
-   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" style:font-name-complex="Calibri3"/>
+   <style:text-properties style:font-name="Calibri" fo:font-size="11pt" fo:language="en" fo:country="CA" officeooo:rsid="002cea7b" fo:background-color="transparent" loext:char-shading-value="0" style:font-size-asian="11pt" style:font-name-complex="Calibri3" style:font-size-complex="11pt"/>
   </style:style>
   <style:style style:name="T8" style:family="text">
-   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" officeooo:rsid="0020a3a6" style:font-name-complex="Calibri3"/>
+   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:background-color="#ffff00" loext:char-shading-value="0" style:font-name-complex="Calibri3"/>
   </style:style>
   <style:style style:name="T9" style:family="text">
-   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:background-color="#ff00ff" loext:char-shading-value="0" style:font-name-complex="Calibri3"/>
+   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" style:font-name-complex="Calibri3"/>
   </style:style>
   <style:style style:name="T10" style:family="text">
-   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:background-color="#ff0000" loext:char-shading-value="0" style:font-name-complex="Calibri3"/>
+   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" officeooo:rsid="0020a3a6" style:font-name-complex="Calibri3"/>
   </style:style>
   <style:style style:name="T11" style:family="text">
-   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:font-weight="bold" fo:background-color="#ffff00" loext:char-shading-value="0" style:font-weight-asian="bold" style:font-name-complex="Calibri3" style:font-weight-complex="bold"/>
+   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:background-color="#ff00ff" loext:char-shading-value="0" style:font-name-complex="Calibri3"/>
   </style:style>
   <style:style style:name="T12" style:family="text">
-   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:font-weight="bold" style:font-weight-asian="bold" style:font-name-complex="Calibri3" style:font-weight-complex="bold"/>
+   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:background-color="#ff0000" loext:char-shading-value="0" style:font-name-complex="Calibri3"/>
   </style:style>
   <style:style style:name="T13" style:family="text">
-   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:font-weight="bold" officeooo:rsid="00225522" fo:background-color="transparent" loext:char-shading-value="0" style:font-weight-asian="bold" style:font-name-complex="Calibri3"/>
+   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:font-weight="bold" fo:background-color="#ffff00" loext:char-shading-value="0" style:font-weight-asian="bold" style:font-name-complex="Calibri3" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T14" style:family="text">
-   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:font-weight="bold" officeooo:rsid="00225522" fo:background-color="transparent" loext:char-shading-value="0" style:font-weight-asian="bold" style:font-name-complex="Calibri3" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:font-weight="bold" style:font-weight-asian="bold" style:font-name-complex="Calibri3" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T15" style:family="text">
-   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:font-weight="bold" officeooo:rsid="002440cf" fo:background-color="transparent" loext:char-shading-value="0" style:font-weight-asian="bold" style:font-name-complex="Calibri3" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:font-weight="bold" officeooo:rsid="00225522" fo:background-color="transparent" loext:char-shading-value="0" style:font-weight-asian="bold" style:font-name-complex="Calibri3"/>
   </style:style>
   <style:style style:name="T16" style:family="text">
-   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:font-weight="bold" officeooo:rsid="002556bd" fo:background-color="transparent" loext:char-shading-value="0" style:font-weight-asian="bold" style:font-name-complex="Calibri3"/>
+   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:font-weight="bold" officeooo:rsid="00225522" fo:background-color="transparent" loext:char-shading-value="0" style:font-weight-asian="bold" style:font-name-complex="Calibri3" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T17" style:family="text">
-   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:font-name-complex="Calibri3"/>
+   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:font-weight="bold" officeooo:rsid="002440cf" fo:background-color="transparent" loext:char-shading-value="0" style:font-weight-asian="bold" style:font-name-complex="Calibri3" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T18" style:family="text">
-   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:font-style="normal" fo:background-color="#ffff00" loext:char-shading-value="0" style:font-style-asian="normal" style:font-name-complex="Calibri3"/>
+   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:font-weight="bold" officeooo:rsid="002556bd" fo:background-color="transparent" loext:char-shading-value="0" style:font-weight-asian="bold" style:font-name-complex="Calibri3"/>
   </style:style>
   <style:style style:name="T19" style:family="text">
-   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:font-style="normal" fo:background-color="transparent" loext:char-shading-value="0" style:font-style-asian="normal" style:font-name-complex="Calibri3"/>
+   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:font-name-complex="Calibri3"/>
   </style:style>
   <style:style style:name="T20" style:family="text">
-   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:font-style="normal" fo:font-weight="normal" fo:background-color="transparent" loext:char-shading-value="0" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri3" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:font-style="normal" fo:background-color="#ffff00" loext:char-shading-value="0" style:font-style-asian="normal" style:font-name-complex="Calibri3"/>
   </style:style>
   <style:style style:name="T21" style:family="text">
-   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00225522" fo:background-color="transparent" loext:char-shading-value="0" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri3" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:font-style="normal" fo:background-color="transparent" loext:char-shading-value="0" style:font-style-asian="normal" style:font-name-complex="Calibri3"/>
   </style:style>
   <style:style style:name="T22" style:family="text">
-   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:font-style="normal" fo:font-weight="bold" fo:background-color="transparent" loext:char-shading-value="0" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Calibri3" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:font-style="normal" fo:font-weight="normal" fo:background-color="transparent" loext:char-shading-value="0" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri3" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T23" style:family="text">
-   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="00225522" fo:background-color="transparent" loext:char-shading-value="0" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Calibri3" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00225522" fo:background-color="transparent" loext:char-shading-value="0" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri3" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T24" style:family="text">
-   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:background-color="transparent" loext:char-shading-value="0" style:font-name-complex="Calibri3"/>
+   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:font-style="normal" fo:font-weight="bold" fo:background-color="transparent" loext:char-shading-value="0" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Calibri3" style:font-style-complex="normal" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T25" style:family="text">
-   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" officeooo:rsid="001db89b" fo:background-color="transparent" loext:char-shading-value="0" style:font-name-complex="Calibri3"/>
+   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="00225522" fo:background-color="transparent" loext:char-shading-value="0" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Calibri3" style:font-style-complex="normal" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T26" style:family="text">
-   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" officeooo:rsid="001ec057" fo:background-color="transparent" loext:char-shading-value="0" style:font-name-complex="Calibri3"/>
+   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:background-color="transparent" loext:char-shading-value="0" style:font-name-complex="Calibri3"/>
   </style:style>
   <style:style style:name="T27" style:family="text">
-   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" officeooo:rsid="00225522" fo:background-color="transparent" loext:char-shading-value="0" style:font-name-complex="Calibri3"/>
+   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" officeooo:rsid="001db89b" fo:background-color="transparent" loext:char-shading-value="0" style:font-name-complex="Calibri3"/>
   </style:style>
   <style:style style:name="T28" style:family="text">
-   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" officeooo:rsid="002440cf" fo:background-color="transparent" loext:char-shading-value="0" style:font-name-complex="Calibri3"/>
+   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" officeooo:rsid="001ec057" fo:background-color="transparent" loext:char-shading-value="0" style:font-name-complex="Calibri3"/>
   </style:style>
   <style:style style:name="T29" style:family="text">
-   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" officeooo:rsid="002af244" fo:background-color="transparent" loext:char-shading-value="0" style:font-name-complex="Calibri3"/>
+   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" officeooo:rsid="00225522" fo:background-color="transparent" loext:char-shading-value="0" style:font-name-complex="Calibri3"/>
   </style:style>
   <style:style style:name="T30" style:family="text">
-   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:font-style="italic" officeooo:rsid="001ec057" fo:background-color="transparent" loext:char-shading-value="0" style:font-style-asian="italic" style:font-name-complex="Calibri3"/>
+   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" officeooo:rsid="002440cf" fo:background-color="transparent" loext:char-shading-value="0" style:font-name-complex="Calibri3"/>
   </style:style>
   <style:style style:name="T31" style:family="text">
-   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="00225522" fo:background-color="transparent" loext:char-shading-value="0" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-name-complex="Calibri3" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" officeooo:rsid="002af244" fo:background-color="transparent" loext:char-shading-value="0" style:font-name-complex="Calibri3"/>
   </style:style>
   <style:style style:name="T32" style:family="text">
-   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:font-style="italic" fo:font-weight="normal" fo:background-color="transparent" loext:char-shading-value="0" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-name-complex="Calibri3" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" officeooo:rsid="002cea7b" fo:background-color="transparent" loext:char-shading-value="0" style:font-name-complex="Calibri3"/>
   </style:style>
   <style:style style:name="T33" style:family="text">
-   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="00225522" fo:background-color="transparent" loext:char-shading-value="0" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-name-complex="Calibri3" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" officeooo:rsid="002e769f" fo:background-color="transparent" loext:char-shading-value="0" style:font-name-complex="Calibri3"/>
   </style:style>
   <style:style style:name="T34" style:family="text">
-   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="002440cf" fo:background-color="transparent" loext:char-shading-value="0" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-name-complex="Calibri3" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:font-style="italic" officeooo:rsid="001ec057" fo:background-color="transparent" loext:char-shading-value="0" style:font-style-asian="italic" style:font-name-complex="Calibri3"/>
   </style:style>
   <style:style style:name="T35" style:family="text">
-   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:font-weight="normal" officeooo:rsid="00225522" fo:background-color="transparent" loext:char-shading-value="0" style:font-weight-asian="normal" style:font-name-complex="Calibri3" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="00225522" fo:background-color="transparent" loext:char-shading-value="0" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-name-complex="Calibri3" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T36" style:family="text">
-   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:font-weight="normal" officeooo:rsid="002440cf" fo:background-color="transparent" loext:char-shading-value="0" style:font-weight-asian="normal" style:font-name-complex="Calibri3" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:font-style="italic" fo:font-weight="normal" fo:background-color="transparent" loext:char-shading-value="0" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-name-complex="Calibri3" style:font-style-complex="italic" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T37" style:family="text">
-   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:font-weight="normal" officeooo:rsid="002556bd" fo:background-color="transparent" loext:char-shading-value="0" style:font-weight-asian="normal" style:font-name-complex="Calibri3" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="00225522" fo:background-color="transparent" loext:char-shading-value="0" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-name-complex="Calibri3" style:font-style-complex="italic" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T38" style:family="text">
-   <style:text-properties style:font-name="Calibri" style:font-name-complex="Calibri3"/>
+   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="002440cf" fo:background-color="transparent" loext:char-shading-value="0" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-name-complex="Calibri3" style:font-style-complex="italic" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T39" style:family="text">
-   <style:text-properties style:font-name="Calibri" fo:background-color="#ffff00" loext:char-shading-value="0" style:font-name-complex="Calibri3"/>
+   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:font-weight="normal" officeooo:rsid="00225522" fo:background-color="transparent" loext:char-shading-value="0" style:font-weight-asian="normal" style:font-name-complex="Calibri3" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T40" style:family="text">
-   <style:text-properties style:font-name="Calibri" style:letter-kerning="false" fo:background-color="#ffff00" loext:char-shading-value="0" style:font-name-asian="Times New Roman" style:language-asian="en" style:country-asian="CA" style:font-name-complex="Calibri3"/>
+   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:font-weight="normal" officeooo:rsid="002440cf" fo:background-color="transparent" loext:char-shading-value="0" style:font-weight-asian="normal" style:font-name-complex="Calibri3" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T41" style:family="text">
-   <style:text-properties style:font-name="Calibri" style:letter-kerning="false" style:font-name-asian="Times New Roman" style:language-asian="en" style:country-asian="CA" style:font-name-complex="Calibri3"/>
+   <style:text-properties style:font-name="Calibri" fo:language="en" fo:country="CA" fo:font-weight="normal" officeooo:rsid="002556bd" fo:background-color="transparent" loext:char-shading-value="0" style:font-weight-asian="normal" style:font-name-complex="Calibri3" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T42" style:family="text">
-   <style:text-properties style:font-name="Calibri" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:letter-kerning="false" fo:background-color="#ffff00" loext:char-shading-value="0" style:font-name-asian="Times New Roman" style:language-asian="en" style:country-asian="CA" style:font-name-complex="Calibri3" style:font-style-complex="italic"/>
+   <style:text-properties style:font-name="Calibri" style:font-name-complex="Calibri3"/>
   </style:style>
   <style:style style:name="T43" style:family="text">
-   <style:text-properties style:font-name="Calibri" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:letter-kerning="false" style:font-name-asian="Times New Roman" style:language-asian="en" style:country-asian="CA" style:font-name-complex="Calibri3" style:font-style-complex="italic"/>
+   <style:text-properties style:font-name="Calibri" fo:background-color="#ffff00" loext:char-shading-value="0" style:font-name-complex="Calibri3"/>
   </style:style>
   <style:style style:name="T44" style:family="text">
-   <style:text-properties style:font-name="Calibri" fo:font-style="italic" style:letter-kerning="false" fo:background-color="#ffff00" loext:char-shading-value="0" style:font-name-asian="Times New Roman" style:language-asian="en" style:country-asian="CA" style:font-style-asian="italic" style:font-name-complex="Calibri3"/>
+   <style:text-properties style:font-name="Calibri" style:letter-kerning="false" fo:background-color="#ffff00" loext:char-shading-value="0" style:font-name-asian="Times New Roman" style:language-asian="en" style:country-asian="CA" style:font-name-complex="Calibri3"/>
   </style:style>
   <style:style style:name="T45" style:family="text">
-   <style:text-properties style:font-name="Calibri" fo:font-style="italic" style:letter-kerning="false" style:font-name-asian="Times New Roman" style:language-asian="en" style:country-asian="CA" style:font-style-asian="italic" style:font-name-complex="Calibri3"/>
+   <style:text-properties style:font-name="Calibri" style:letter-kerning="false" style:font-name-asian="Times New Roman" style:language-asian="en" style:country-asian="CA" style:font-name-complex="Calibri3"/>
   </style:style>
   <style:style style:name="T46" style:family="text">
-   <style:text-properties style:font-name="Calibri" fo:font-style="italic" fo:font-weight="bold" style:letter-kerning="false" style:font-name-asian="Times New Roman" style:language-asian="en" style:country-asian="CA" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-name-complex="Calibri3" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+   <style:text-properties style:font-name="Calibri" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:letter-kerning="false" fo:background-color="#ffff00" loext:char-shading-value="0" style:font-name-asian="Times New Roman" style:language-asian="en" style:country-asian="CA" style:font-name-complex="Calibri3" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T47" style:family="text">
-   <style:text-properties style:font-name="Calibri" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002440cf" style:letter-kerning="false" fo:background-color="transparent" loext:char-shading-value="0" style:font-name-asian="Times New Roman" style:language-asian="en" style:country-asian="CA" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri3" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="Calibri" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:letter-kerning="false" style:font-name-asian="Times New Roman" style:language-asian="en" style:country-asian="CA" style:font-name-complex="Calibri3" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T48" style:family="text">
-   <style:text-properties style:font-name="Calibri" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0026e661" style:letter-kerning="false" fo:background-color="transparent" loext:char-shading-value="0" style:font-name-asian="Times New Roman" style:language-asian="en" style:country-asian="CA" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri3" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+   <style:text-properties style:font-name="Calibri" fo:font-style="italic" style:letter-kerning="false" fo:background-color="#ffff00" loext:char-shading-value="0" style:font-name-asian="Times New Roman" style:language-asian="en" style:country-asian="CA" style:font-style-asian="italic" style:font-name-complex="Calibri3"/>
   </style:style>
   <style:style style:name="T49" style:family="text">
-   <style:text-properties fo:color="#212529"/>
+   <style:text-properties style:font-name="Calibri" fo:font-style="italic" style:letter-kerning="false" style:font-name-asian="Times New Roman" style:language-asian="en" style:country-asian="CA" style:font-style-asian="italic" style:font-name-complex="Calibri3"/>
   </style:style>
   <style:style style:name="T50" style:family="text">
-   <style:text-properties fo:color="#212529" style:font-name="Calibri" fo:background-color="#ffffff" loext:char-shading-value="0" style:font-name-complex="Calibri3"/>
+   <style:text-properties style:font-name="Calibri" fo:font-style="italic" fo:font-weight="bold" style:letter-kerning="false" style:font-name-asian="Times New Roman" style:language-asian="en" style:country-asian="CA" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-name-complex="Calibri3" style:font-style-complex="italic" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T51" style:family="text">
-   <style:text-properties fo:color="#212529" style:font-name="Calibri" style:font-name-complex="Calibri3"/>
+   <style:text-properties style:font-name="Calibri" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002440cf" style:letter-kerning="false" fo:background-color="transparent" loext:char-shading-value="0" style:font-name-asian="Times New Roman" style:language-asian="en" style:country-asian="CA" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri3" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T52" style:family="text">
-   <style:text-properties fo:background-color="transparent" loext:char-shading-value="0"/>
+   <style:text-properties style:font-name="Calibri" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0026e661" style:letter-kerning="false" fo:background-color="transparent" loext:char-shading-value="0" style:font-name-asian="Times New Roman" style:language-asian="en" style:country-asian="CA" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Calibri3" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T53" style:family="text">
-   <style:text-properties fo:language="en" fo:country="CA" officeooo:rsid="001db89b" fo:background-color="transparent" loext:char-shading-value="0" style:font-name-complex="Calibri3"/>
+   <style:text-properties fo:color="#212529"/>
   </style:style>
   <style:style style:name="T54" style:family="text">
-   <style:text-properties officeooo:rsid="001ec057"/>
+   <style:text-properties fo:color="#212529" style:font-name="Calibri" fo:background-color="#ffffff" loext:char-shading-value="0" style:font-name-complex="Calibri3"/>
   </style:style>
   <style:style style:name="T55" style:family="text">
-   <style:text-properties officeooo:rsid="002440cf"/>
+   <style:text-properties fo:color="#212529" style:font-name="Calibri" style:font-name-complex="Calibri3"/>
   </style:style>
   <style:style style:name="T56" style:family="text">
-   <style:text-properties fo:text-transform="uppercase" fo:color="#000000" fo:font-size="11pt" fo:letter-spacing="0.044cm" fo:language="en" fo:country="CA" fo:font-weight="bold" officeooo:rsid="00225522" style:font-size-asian="11pt" style:font-weight-asian="bold" style:font-size-complex="11pt" style:font-weight-complex="bold"/>
+   <style:text-properties fo:background-color="transparent" loext:char-shading-value="0"/>
   </style:style>
   <style:style style:name="T57" style:family="text">
-   <style:text-properties fo:text-transform="uppercase" fo:color="#000000" fo:font-size="11pt" fo:letter-spacing="0.044cm" fo:language="en" fo:country="CA" fo:font-weight="bold" officeooo:rsid="002440cf" style:font-size-asian="11pt" style:font-weight-asian="bold" style:font-size-complex="11pt" style:font-weight-complex="bold"/>
+   <style:text-properties fo:language="en" fo:country="CA"/>
   </style:style>
   <style:style style:name="T58" style:family="text">
-   <style:text-properties fo:text-transform="uppercase" fo:color="#000000" fo:font-size="11pt" fo:letter-spacing="0.044cm" fo:language="en" fo:country="CA" fo:font-weight="normal" officeooo:rsid="002440cf" style:font-size-asian="11pt" style:font-weight-asian="normal" style:font-size-complex="11pt"/>
+   <style:text-properties fo:language="en" fo:country="CA" officeooo:rsid="001db89b" fo:background-color="transparent" loext:char-shading-value="0" style:font-name-complex="Calibri3"/>
   </style:style>
   <style:style style:name="T59" style:family="text">
-   <style:text-properties fo:text-transform="uppercase" fo:color="#000000" fo:font-size="11pt" fo:letter-spacing="0.044cm" fo:language="en" fo:country="CA" fo:font-weight="normal" officeooo:rsid="0026e661" style:font-size-asian="11pt" style:font-weight-asian="normal" style:font-size-complex="11pt"/>
+   <style:text-properties officeooo:rsid="001ec057"/>
   </style:style>
   <style:style style:name="T60" style:family="text">
-   <style:text-properties fo:text-transform="uppercase" fo:color="#000000" style:font-name="Calibri" fo:font-size="11pt" fo:letter-spacing="0.044cm" fo:language="en" fo:country="CA" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="00225522" style:letter-kerning="false" fo:background-color="transparent" loext:char-shading-value="0" style:font-name-asian="Times New Roman" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="CA" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Calibri3" style:font-size-complex="11pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+   <style:text-properties officeooo:rsid="002440cf"/>
   </style:style>
   <style:style style:name="T61" style:family="text">
-   <style:text-properties fo:text-transform="uppercase" fo:color="#000000" style:font-name="Calibri" fo:font-size="11pt" fo:letter-spacing="0.044cm" fo:language="en" fo:country="CA" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="002af244" style:letter-kerning="false" fo:background-color="transparent" loext:char-shading-value="0" style:font-name-asian="Times New Roman" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="CA" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Calibri3" style:font-size-complex="11pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+   <style:text-properties fo:text-transform="uppercase" fo:color="#000000" fo:font-size="11pt" fo:letter-spacing="0.044cm" fo:language="en" fo:country="CA" fo:font-weight="bold" officeooo:rsid="00225522" style:font-size-asian="11pt" style:font-weight-asian="bold" style:font-size-complex="11pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T62" style:family="text">
-   <style:text-properties officeooo:rsid="002556bd"/>
+   <style:text-properties fo:text-transform="uppercase" fo:color="#000000" fo:font-size="11pt" fo:letter-spacing="0.044cm" fo:language="en" fo:country="CA" fo:font-weight="bold" officeooo:rsid="002440cf" style:font-size-asian="11pt" style:font-weight-asian="bold" style:font-size-complex="11pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T63" style:family="text">
-   <style:text-properties officeooo:rsid="0026e661"/>
+   <style:text-properties fo:text-transform="uppercase" fo:color="#000000" fo:font-size="11pt" fo:letter-spacing="0.044cm" fo:language="en" fo:country="CA" fo:font-weight="normal" officeooo:rsid="002440cf" style:font-size-asian="11pt" style:font-weight-asian="normal" style:font-size-complex="11pt"/>
   </style:style>
   <style:style style:name="T64" style:family="text">
-   <style:text-properties officeooo:rsid="002a2fbd"/>
+   <style:text-properties fo:text-transform="uppercase" fo:color="#000000" fo:font-size="11pt" fo:letter-spacing="0.044cm" fo:language="en" fo:country="CA" fo:font-weight="normal" officeooo:rsid="0026e661" style:font-size-asian="11pt" style:font-weight-asian="normal" style:font-size-complex="11pt"/>
   </style:style>
   <style:style style:name="T65" style:family="text">
-   <style:text-properties officeooo:rsid="002af244"/>
+   <style:text-properties fo:text-transform="uppercase" fo:color="#000000" fo:font-size="11pt" fo:letter-spacing="0.044cm" fo:language="en" fo:country="CA" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="00225522" style:letter-kerning="false" fo:background-color="transparent" loext:char-shading-value="0" style:font-name-asian="Times New Roman" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="CA" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Calibri3" style:font-size-complex="11pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T66" style:family="text">
-   <style:text-properties fo:color="#000000" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Devanagari" style:language-complex="hi" style:country-complex="IN"/>
+   <style:text-properties fo:text-transform="uppercase" fo:color="#000000" fo:font-size="11pt" fo:letter-spacing="0.044cm" fo:language="en" fo:country="CA" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="002af244" style:letter-kerning="false" fo:background-color="transparent" loext:char-shading-value="0" style:font-name-asian="Times New Roman" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="CA" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Calibri3" style:font-size-complex="11pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T67" style:family="text">
-   <style:text-properties fo:color="#000000" fo:font-size="12pt" fo:font-weight="bold" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:font-size-asian="12pt" style:language-asian="zh" style:country-asian="CN" style:font-weight-asian="bold" style:font-name-complex="Lohit Devanagari" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" style:font-weight-complex="bold"/>
+   <style:text-properties fo:text-transform="uppercase" fo:color="#000000" style:font-name="Calibri" fo:font-size="11pt" fo:letter-spacing="0.044cm" fo:language="en" fo:country="CA" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="00225522" style:letter-kerning="false" fo:background-color="transparent" loext:char-shading-value="0" style:font-name-asian="Times New Roman" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="CA" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Calibri3" style:font-size-complex="11pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T68" style:family="text">
-   <style:text-properties fo:color="#000000" fo:font-weight="bold" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:language-asian="zh" style:country-asian="CN" style:font-weight-asian="bold" style:font-name-complex="Lohit Devanagari" style:language-complex="hi" style:country-complex="IN" style:font-weight-complex="bold"/>
+   <style:text-properties fo:text-transform="uppercase" fo:color="#000000" style:font-name="Calibri" fo:font-size="11pt" fo:letter-spacing="0.044cm" fo:language="en" fo:country="CA" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="002af244" style:letter-kerning="false" fo:background-color="transparent" loext:char-shading-value="0" style:font-name-asian="Times New Roman" style:font-size-asian="11pt" style:language-asian="en" style:country-asian="CA" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Calibri3" style:font-size-complex="11pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T69" style:family="text">
-   <style:text-properties fo:color="#000000" fo:language="de" fo:country="DE" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Devanagari" style:language-complex="hi" style:country-complex="IN"/>
+   <style:text-properties fo:text-transform="uppercase" fo:color="#000000" style:font-name="Calibri" fo:font-size="11pt" fo:letter-spacing="0.044cm" fo:language="en" fo:country="CA" fo:font-weight="bold" officeooo:rsid="002cea7b" fo:background-color="transparent" loext:char-shading-value="0" style:font-size-asian="11pt" style:font-weight-asian="bold" style:font-name-complex="Calibri3" style:font-size-complex="11pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T70" style:family="text">
-   <style:text-properties fo:color="#000000" style:font-name="Calibri1" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Devanagari" style:language-complex="hi" style:country-complex="IN"/>
+   <style:text-properties officeooo:rsid="002556bd"/>
   </style:style>
   <style:style style:name="T71" style:family="text">
-   <style:text-properties fo:color="#000000" style:font-name="Calibri1" fo:language="de" fo:country="DE" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Devanagari" style:language-complex="hi" style:country-complex="IN"/>
+   <style:text-properties officeooo:rsid="0026e661"/>
   </style:style>
   <style:style style:name="T72" style:family="text">
+   <style:text-properties officeooo:rsid="002a2fbd"/>
+  </style:style>
+  <style:style style:name="T73" style:family="text">
+   <style:text-properties officeooo:rsid="002af244"/>
+  </style:style>
+  <style:style style:name="T74" style:family="text">
+   <style:text-properties fo:color="#000000" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Devanagari" style:language-complex="hi" style:country-complex="IN"/>
+  </style:style>
+  <style:style style:name="T75" style:family="text">
+   <style:text-properties fo:color="#000000" fo:font-size="12pt" fo:font-weight="bold" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:font-size-asian="12pt" style:language-asian="zh" style:country-asian="CN" style:font-weight-asian="bold" style:font-name-complex="Lohit Devanagari" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T76" style:family="text">
+   <style:text-properties fo:color="#000000" fo:font-weight="bold" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:language-asian="zh" style:country-asian="CN" style:font-weight-asian="bold" style:font-name-complex="Lohit Devanagari" style:language-complex="hi" style:country-complex="IN" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T77" style:family="text">
+   <style:text-properties fo:color="#000000" fo:language="de" fo:country="DE" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Devanagari" style:language-complex="hi" style:country-complex="IN"/>
+  </style:style>
+  <style:style style:name="T78" style:family="text">
+   <style:text-properties fo:color="#000000" style:font-name="Calibri2" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Devanagari" style:language-complex="hi" style:country-complex="IN"/>
+  </style:style>
+  <style:style style:name="T79" style:family="text">
+   <style:text-properties fo:color="#000000" style:font-name="Calibri2" fo:language="de" fo:country="DE" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Devanagari" style:language-complex="hi" style:country-complex="IN"/>
+  </style:style>
+  <style:style style:name="T80" style:family="text">
+   <style:text-properties fo:color="#000000" style:language-complex="hi" style:country-complex="IN"/>
+  </style:style>
+  <style:style style:name="T81" style:family="text">
    <style:text-properties fo:font-size="11pt" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
+  </style:style>
+  <style:style style:name="T82" style:family="text">
+   <style:text-properties officeooo:rsid="002cea7b"/>
+  </style:style>
+  <style:style style:name="T83" style:family="text">
+   <style:text-properties style:font-name="Calibri2"/>
+  </style:style>
+  <style:style style:name="T84" style:family="text">
+   <style:text-properties style:font-name="Calibri2" fo:font-size="11pt" officeooo:rsid="002cea7b" style:font-size-asian="10.5pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="T85" style:family="text">
+   <style:text-properties style:font-name="Calibri2" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Devanagari"/>
+  </style:style>
+  <style:style style:name="T86" style:family="text">
+   <style:text-properties style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Devanagari"/>
+  </style:style>
+  <style:style style:name="T87" style:family="text">
+   <style:text-properties officeooo:rsid="002dff06"/>
   </style:style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties fo:page-width="21.59cm" fo:page-height="27.94cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="1.094cm" fo:margin-bottom="1.094cm" fo:margin-left="1.094cm" fo:margin-right="1.094cm" fo:border="0.51pt solid #00000a" fo:padding-top="0.176cm" fo:padding-bottom="0.176cm" fo:padding-left="1.446cm" fo:padding-right="1.446cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="38" style:layout-grid-base-height="0.635cm" style:layout-grid-ruby-height="0cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:layout-grid-base-width="0.404cm" style:layout-grid-snap-to="true" style:footnote-max-height="0cm">
@@ -1651,7 +1776,7 @@
  <office:master-styles>
   <style:master-page style:name="Standard" style:page-layout-name="pm1">
    <style:footer>
-    <text:p text:style-name="P1">Page <text:page-number text:select-page="current">4</text:page-number><text:s/>of <text:page-count>4</text:page-count></text:p>
+    <text:p text:style-name="P1">Page <text:page-number text:select-page="current">2</text:page-number><text:s/>of <text:page-count>2</text:page-count></text:p>
    </style:footer>
   </style:master-page>
   <style:master-page style:name="First_20_Page" style:display-name="First Page" style:page-layout-name="pm2" style:next-style-name="Standard"/>
@@ -1666,249 +1791,126 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
    </text:sequence-decls>
-   <text:p text:style-name="P54">Sheldon W. B. Maschmeyer</text:p>
+   <text:p text:style-name="P82">Sheldon W. B. Maschmeyer</text:p>
    <text:p text:style-name="P5">562 Reardon Private, Ottawa, Ontario, Canada, K1V 2L1</text:p>
    <text:p text:style-name="P5">613-889-4320 | sheldon@maschmeyer.ca</text:p>
    <text:h text:style-name="P6" text:outline-level="1">profile</text:h>
-   <text:list xml:id="list2259117056" text:style-name="WWNum2">
+   <text:list xml:id="list4271005331" text:style-name="WWNum2">
     <text:list-item>
-     <text:p text:style-name="P60">Secret Level Security Clearance</text:p>
+     <text:p text:style-name="P83">Secret Level Security Clearance</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P66"><text:span text:style-name="T29">Qualified for</text:span><text:span text:style-name="T24"> </text:span><text:span text:style-name="T29">Computer Programming, </text:span><text:span text:style-name="T24">IT </text:span><text:span text:style-name="T29">and researching positions</text:span></text:p>
+     <text:p text:style-name="P86"><text:span text:style-name="T31">Qualified for</text:span><text:span text:style-name="T26"> </text:span><text:span text:style-name="T32">Computer Software Developer,</text:span><text:span text:style-name="T31"> </text:span><text:span text:style-name="T26">IT </text:span><text:span text:style-name="T31">and researching positions</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P61"><text:span text:style-name="T65">I have both applied computer science and broad science, technology and environmental education </text:span></text:p>
+     <text:p text:style-name="P84">I have both applied computer science and broad science, technology and environmental educatio<text:span text:style-name="T82">n</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P85">For the majority of my work experience, I was working part-time while studying to finance my education (low-income adult student without family financial support)</text:p>
     </text:list-item>
    </text:list>
+   <text:h text:style-name="P6" text:outline-level="1"/>
    <text:h text:style-name="P6" text:outline-level="1">Education</text:h>
-   <text:p text:style-name="P13"><text:span text:style-name="Normal_20_Bold"><text:span text:style-name="T24">Carleton University<text:tab/></text:span></text:span><text:span text:style-name="T24">Ottawa</text:span></text:p>
-   <text:p text:style-name="P23"><text:span text:style-name="Normal_20_Italic"><text:span text:style-name="T25">BS.</text:span></text:span><text:span text:style-name="Normal_20_Italic"><text:span text:style-name="T24"> Computer Science (Minor: Sociology</text:span></text:span><text:span text:style-name="Normal_20_Italic"><text:span text:style-name="T29">)</text:span></text:span><text:span text:style-name="T24"><text:tab/>2019</text:span></text:p>
-   <text:p text:style-name="P24"><text:span text:style-name="Normal_20_Bold"><text:span text:style-name="T52"/></text:span></text:p>
-   <text:p text:style-name="P23"><text:span text:style-name="Normal_20_Bold"><text:span text:style-name="T24">Carleton University</text:span></text:span><text:span text:style-name="T24"><text:tab/>Ottawa</text:span></text:p>
-   <text:p text:style-name="P23"><text:span text:style-name="Normal_20_Italic"><text:span text:style-name="T25">BS.</text:span></text:span><text:span text:style-name="Normal_20_Italic"><text:span text:style-name="T24"> Integrated Science and Technology</text:span></text:span><text:span text:style-name="T24"><text:tab/>2014</text:span></text:p>
-   <text:h text:style-name="P58" text:outline-level="1"><text:span text:style-name="T72">Technology Skills</text:span></text:h>
-   <text:list xml:id="list144724171624747" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:p text:style-name="P14"><text:span text:style-name="Normal_20_Bold"><text:span text:style-name="T26">Carleton University<text:tab/></text:span></text:span><text:span text:style-name="T26">Ottawa</text:span></text:p>
+   <text:p text:style-name="P33"><text:span text:style-name="Normal_20_Italic"><text:span text:style-name="T27">BS.</text:span></text:span><text:span text:style-name="Normal_20_Italic"><text:span text:style-name="T26"> Computer Science (Minor: Sociology</text:span></text:span><text:span text:style-name="Normal_20_Italic"><text:span text:style-name="T31">)</text:span></text:span><text:span text:style-name="T26"><text:tab/>2019</text:span></text:p>
+   <text:p text:style-name="P34"><text:span text:style-name="Normal_20_Bold"><text:span text:style-name="T56"/></text:span></text:p>
+   <text:p text:style-name="P33"><text:span text:style-name="Normal_20_Bold"><text:span text:style-name="T26">Carleton University</text:span></text:span><text:span text:style-name="T26"><text:tab/>Ottawa</text:span></text:p>
+   <text:p text:style-name="P33"><text:span text:style-name="Normal_20_Italic"><text:span text:style-name="T27">BS.</text:span></text:span><text:span text:style-name="Normal_20_Italic"><text:span text:style-name="T26"> Integrated Science and Technology</text:span></text:span><text:span text:style-name="T26"><text:tab/>2014</text:span></text:p>
+   <text:h text:style-name="P8" text:outline-level="1"/>
+   <text:h text:style-name="P8" text:outline-level="1">Technology Skills</text:h>
+   <text:list xml:id="list161460235943475" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
-     <text:p text:style-name="P72">C++ <text:span text:style-name="T65">and Java</text:span></text:p>
+     <text:p text:style-name="P87">C++ <text:span text:style-name="T73">and Java</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P70">Windows (Batch) and Linux (Batch).</text:p>
+     <text:p text:style-name="P88">Windows (Batch) and Linux (Batch).</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P70">OS Kernel programming on Linux.</text:p>
+     <text:p text:style-name="P88">OS Kernel programming on Linux.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P70">Databases: Oracle SQL, mySQL, MongoDB.</text:p>
+     <text:p text:style-name="P88">Databases: Oracle SQL, mySQL, MongoDB.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P70">Git; using GitHub for collaboration and version control.</text:p>
+     <text:p text:style-name="P88">Git; using GitHub for collaboration and version control.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P70">XML, JSON, CSS, JavaScript, PHP, HTML5. Used Bootstrap-5 and additional frameworks.</text:p>
+     <text:p text:style-name="P88">XML, JSON, CSS, JavaScript, PHP, HTML5. Used Bootstrap-5 and additional frameworks.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P70">Favorite IDE: Dreamweaver (Windows) and Wappler (Linux).</text:p>
+     <text:p text:style-name="P88">Favorite IDE: Dreamweaver (Windows) and Wappler (Linux).</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P70">OpenSource Matomo (Formally PIWIK)</text:p>
+     <text:p text:style-name="P88">OpenSource Matomo (Formally PIWIK)</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P70">Google Analytics</text:p>
+     <text:p text:style-name="P88">Google Analytics</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P70">Microsoft Internet Information Services (IIS)</text:p>
+     <text:p text:style-name="P88">Microsoft Internet Information Services (IIS)</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P70">Linux with Apache Server (for testing before going live)</text:p>
+     <text:p text:style-name="P88">Linux with Apache Server (for testing before going live)</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P71">Computer/Network Security: Burp, Wireshark, and Packet Tracing.</text:p>
+     <text:p text:style-name="P89">Computer/Network Security: Burp, Wireshark, and Packet Tracing.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P70">MS Office programs including advanced skills <text:span text:style-name="T65">such as physics tables</text:span> with Excel.</text:p>
+     <text:p text:style-name="P88">MS Office programs including advanced skills <text:span text:style-name="T73">such as physics tables</text:span> with Excel.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P70">Adobe Photoshop and Premier.</text:p>
-    </text:list-item>
-   </text:list>
-   <text:h text:style-name="P6" text:outline-level="1">Professional Experience</text:h>
-   <text:p text:style-name="Standard"><text:span text:style-name="Normal_20_Bold"><text:span text:style-name="T24">I-AM Retailer Solutions Inc.</text:span></text:span><text:span text:style-name="T24"><text:tab/>Mississauga, ON, Canada</text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Normal_20_Italic"><text:span text:style-name="T24">IT &amp; Media Arts</text:span></text:span><text:span text:style-name="T24"><text:tab/>June 2012 – Present</text:span></text:p>
-   <text:p text:style-name="P36">I-AM Retailer Solutions specializes in advanced retail display solutions, featuring video and mobile advertising capabilities. </text:p>
-   <text:p text:style-name="P59">Assignments and Project<text:span text:style-name="T64">s</text:span> completed:</text:p>
-   <text:list xml:id="list2385186852" text:style-name="WWNum3">
-    <text:list-item>
-     <text:p text:style-name="P63">Provide employees with <text:s/>IT support in a Windows 10 and Office 365 environment, as well as desktop applications, hardware and mobile devices.</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P62">Setup Google Apps for Business and configured all employees Outlook 365 desktop applications and, mobiles (iPhone, Android). </text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P63">Regularly update and maintain all employee hardware and software with recent software updates, and security patches.</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P63">Source and install all corporate hardware and software.</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P63">Back up all corporate data regularly, utilizing tools such as Belarc Advisor and business cloud features. </text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P63">Configured IMAP and Exchange Email for employees in Outlook. </text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P63"><text:soft-page-break/>Graphic art design/creation of multimedia business support materials, including concept renditions, situational prototype designs.</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P63">Designed images, videos and animations for executive presentations.</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P63">Installed Linux (Ubuntu) and ran advertising on the Digital Engines that run the I-AM <text:s/>video screens and connected them to a gateway which had always-on cellular internet service. </text:p>
+     <text:p text:style-name="P88">Adobe Photoshop and Premier.</text:p>
+     <text:p text:style-name="P88"/>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="Standard"><text:span text:style-name="Normal_20_Bold"><text:span text:style-name="T24"/></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Normal_20_Bold"><text:span text:style-name="T24">Shoppers Drug Mart</text:span></text:span><text:span text:style-name="T24"><text:tab/>Ottawa, ON, Canada</text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Normal_20_Italic"><text:span text:style-name="T24">Cashier &amp; Merchandiser<text:tab/></text:span></text:span><text:span text:style-name="Normal_20_Italic"><text:span text:style-name="T19">May 2016- </text:span></text:span><text:span text:style-name="T24">Present</text:span></text:p>
-   <text:p text:style-name="P53"><text:span text:style-name="T7">Shoppers Drug Mart is leading drug store retailer providing a broad range of products and services in health, beauty and convenience. Our location is open till midnight. </text:span><text:span text:style-name="T8">Our location r</text:span><text:span text:style-name="T7">ecently expanded the grocery section, providing fresh produce, easy meals and self checkouts.</text:span></text:p>
-   <text:p text:style-name="P38"><text:span text:style-name="T17">Key Responsibilities</text:span><text:span text:style-name="T7">:</text:span></text:p>
-   <text:list xml:id="list862403245" text:style-name="WWNum4">
-    <text:list-item>
-     <text:p text:style-name="P64">Efficiently and accurately operate cash register, OLG lottery, Load Presto Cards.</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P64">Promote corporate customer facing charity events and promote Shoppers Loyalty Program (Optimum).</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P64">Perform merchandising tasks such as: maintaining a temperature log, checking expiry dates, using a PDT (to print price tags, bin excess inventory, check prices and, check planogram when restocking.</text:p>
-    </text:list-item>
-   </text:list>
-   <text:p text:style-name="Standard"><text:span text:style-name="Normal_20_Bold"><text:span text:style-name="T24"/></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Normal_20_Bold"><text:span text:style-name="T24">Dominion Voting Systems</text:span></text:span><text:span text:style-name="T24"><text:tab/>Toronto, ON, Canada</text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Normal_20_Italic"><text:span text:style-name="T24">Field Training and Support Representative</text:span></text:span><text:span text:style-name="T24"><text:tab/>May 2018 – June 2018</text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Normal_20_Italic"><text:span text:style-name="T24">Field Service Representative</text:span></text:span><text:span text:style-name="T24"><text:tab/>October 2014 &amp; June 2014</text:span></text:p>
-   <text:p text:style-name="P36">Dominion Voting Systems (“DVS”) began in 1895 in New York with the invention of the first ever Direct Recording lever machines for elections. DVS is still known for its innovation in election technology. </text:p>
-   <text:p text:style-name="P38"><text:span text:style-name="T17">Key Responsibilities</text:span><text:span text:style-name="T7">:</text:span></text:p>
-   <text:p text:style-name="P36">2018: </text:p>
-   <text:list xml:id="list4278595700" text:style-name="WWNum5">
-    <text:list-item>
-     <text:p text:style-name="P65">Provided advanced training for the 2018 Ontario Election to all Poll Officials in Ottawa.</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P65">Assisted with equipment setup and conducted Logic &amp; Accuracy testing.</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P65">Provided support during polling hours and while votes were being tabulated.</text:p>
-    </text:list-item>
-   </text:list>
-   <text:p text:style-name="P36">2014:</text:p>
-   <text:list xml:id="list144723222317666" text:continue-numbering="true" text:style-name="WWNum5">
-    <text:list-item>
-     <text:p text:style-name="P65">Assisted Tabulator District Returning Officers (“TDROs”) with equipment to set-up.</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P65">Assisted TDRO with Logic and Accuracy testing of DVS electronic voting equipment.</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P65">Ensured that all voting machines remained operational throughout all polling days.</text:p>
-    </text:list-item>
-   </text:list>
-   <text:p text:style-name="Standard"><text:span text:style-name="Normal_20_Bold"><text:span text:style-name="T24"/></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Normal_20_Bold"><text:span text:style-name="T24">Canada Computers</text:span></text:span><text:span text:style-name="T24"><text:tab/>Mississauga ON, Canadas</text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Normal_20_Italic"><text:span text:style-name="T24">Customer Service Representative</text:span></text:span><text:span text:style-name="T24"><text:tab/>June 2014 – August 2015</text:span></text:p>
-   <text:p text:style-name="P11">Founded in 1991, Canada Computers &amp; Electronics is a retailer of personal computers, IT and components, as well as consumer electronics.</text:p>
-   <text:p text:style-name="P38"><text:span text:style-name="T17">Key Responsibilities</text:span><text:span text:style-name="T7">:</text:span></text:p>
-   <text:list xml:id="list144723253923077" text:continue-numbering="true" text:style-name="WWNum5">
-    <text:list-item>
-     <text:p text:style-name="P65">Service Desk representative responsible for aiding clients with troubleshooting technical issues and suggesting appropriate solutions. </text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P65">Responsible for assisting clients in finding the right software or hardware to meet their needs.</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P65"><text:soft-page-break/>Used POS system to order required services and parts for pickup or delivery as well as inventory transfer between customer service department and sales.</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P65">Assisted in migrating <text:s/>customers’ computers from Windows 8 to Windows 10 during transition period. </text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P65">Assisted customers with Windows troubleshooting</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P65">Using MiniTool Partition Wizard, I backed up and migrated (who?) to new SSDs and HDDs operating systems. </text:p>
-    </text:list-item>
-   </text:list>
-   <text:p text:style-name="Standard"><text:span text:style-name="Normal_20_Bold"><text:span text:style-name="T24"/></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Normal_20_Bold"><text:span text:style-name="T24">Elections Canada</text:span></text:span><text:span text:style-name="T24"><text:tab/>Toronto, ON, Canada</text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Normal_20_Italic"><text:span text:style-name="T24">Deputy Returning Officer</text:span></text:span><text:span text:style-name="T24"><text:tab/>September 2014</text:span></text:p>
-   <text:p text:style-name="P20">Elections Canada is the independent, non-partisan agency responsible for conducting Canadian federal elections and referendums. </text:p>
-   <text:p text:style-name="P38"><text:span text:style-name="T17">Key Responsibilities</text:span><text:span text:style-name="T7">:</text:span></text:p>
-   <text:list xml:id="list144722676576943" text:continue-numbering="true" text:style-name="WWNum5">
-    <text:list-item>
-     <text:p text:style-name="P65">Responsible for setting up assigned polling stations.</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P65">Ensured all Election Canada employees and party representatives followed rules and procedures.</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P65">Ensured voters followed voting rules and experienced a easy and hassle free voting environment </text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P65">Managed registration process at polling station as required. </text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P65">Tabulated votes completed all required paperwork, informed Elections Canada of polling station voting results and, returned the ballot box and related materials to Election Canada Office.</text:p>
-    </text:list-item>
-   </text:list>
-   <text:p text:style-name="Standard"><text:span text:style-name="Normal_20_Bold"><text:span text:style-name="T28"/></text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Normal_20_Bold"><text:span text:style-name="T24">Fox Wireless</text:span></text:span><text:span text:style-name="T24"><text:tab/>Toronto, ON, Canada</text:span></text:p>
-   <text:p text:style-name="Standard"><text:span text:style-name="Normal_20_Italic"><text:span text:style-name="T24">Sales Associate</text:span></text:span><text:span text:style-name="T24"><text:tab/>May 2008 – August 2008</text:span></text:p>
-   <text:p text:style-name="P26">Fox Wireless Communications sold Telus mobiles, accessories and contracts. Moved to a new location when a new Telus store established nearby. I believe they are no longer operating. </text:p>
-   <text:p text:style-name="P26"/>
-   <text:p text:style-name="P31"><text:span text:style-name="T43">Key Responsibilities</text:span><text:span text:style-name="T45">:</text:span></text:p>
-   <text:list xml:id="list4073897006" text:style-name="WWNum6">
-    <text:list-item>
-     <text:p text:style-name="P79">Exceeded sales quota of Telus Mobile devices, contracts and accessories.</text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P79">Assisted with store opening and closing duties. </text:p>
-    </text:list-item>
-    <text:list-item>
-     <text:p text:style-name="P79">Troubleshooted mobile related customer issues. Educated clients on usage and features of their new mobile devices.</text:p>
-     <text:p text:style-name="P80"/>
-    </text:list-item>
-   </text:list>
-   <text:h text:style-name="P16" text:outline-level="1">V<text:span text:style-name="T55">olunteering</text:span></text:h>
-   <text:p text:style-name="P46"><text:span text:style-name="Normal_20_Bold"><text:span text:style-name="T13">Note Taker: </text:span></text:span><text:span text:style-name="Normal_20_Bold"><text:span text:style-name="T33">for students with disabilities (PMC centre) at Carleton University <text:tab/></text:span></text:span><text:span text:style-name="Normal_20_Bold"><text:span text:style-name="T21">multiple courses and terms<text:tab/></text:span></text:span></text:p>
-   <text:p text:style-name="P46"><text:span text:style-name="Normal_20_Bold"><text:span text:style-name="T13">Canadian Feed the Children: </text:span></text:span><text:span text:style-name="Normal_20_Italic"><text:span text:style-name="T31">General Member at Carleton University</text:span></text:span><text:span text:style-name="T24"><text:tab/></text:span><text:span text:style-name="T27">2012 - 2013</text:span></text:p>
-   <text:p text:style-name="P47"><text:span text:style-name="T28">Aurora Food Pantry</text:span><text:span text:style-name="T24">: </text:span><text:span text:style-name="T32">volunteer at </text:span><text:span text:style-name="T34">Food Bank</text:span><text:span text:style-name="T32"><text:tab/></text:span><text:span text:style-name="T20">2008</text:span></text:p>
-   <text:p text:style-name="P46"><text:span text:style-name="T23">Out of the Cold program for the homeless: </text:span><text:span text:style-name="T33">volunteer </text:span><text:span text:style-name="T21"><text:tab/>2000 - 2003</text:span></text:p>
-   <text:p text:style-name="P46"><text:span text:style-name="Normal_20_Bold"><text:span text:style-name="T13">Terry Fox Run: </text:span></text:span><text:span text:style-name="Normal_20_Bold"><text:span text:style-name="T35">occasional donor and participant</text:span></text:span></text:p>
-   <text:p text:style-name="P48"><text:span text:style-name="Normal_20_Bold"><text:span text:style-name="T14">F</text:span></text:span><text:span text:style-name="Normal_20_Bold"><text:span text:style-name="T15">olding @ Home</text:span></text:span><text:span text:style-name="Normal_20_Bold"><text:span text:style-name="T14">: </text:span></text:span><text:span text:style-name="Normal_20_Bold"><text:span text:style-name="T36">occasionally donate my unused CPU and/or GPU resources to the researchers</text:span></text:span></text:p>
-   <text:p text:style-name="P48"><text:span text:style-name="Normal_20_Bold"><text:span text:style-name="T36"/></text:span></text:p>
-   <text:h text:style-name="P17" text:outline-level="1">Activities</text:h>
-   <text:p text:style-name="P73"><text:span text:style-name="T47">Recreational tennis, jogging. Cycle as a means of transportation. Play guitar in private. Hangout with </text:span><text:span text:style-name="T48">friends and </text:span><text:span text:style-name="T47">my girlfriend.</text:span></text:p>
-   <text:h text:style-name="P56" text:outline-level="1"><text:soft-page-break/>W<text:span text:style-name="T65">ork References</text:span></text:h>
-   <text:p text:style-name="P78"><text:span text:style-name="T68">Eddie Chin</text:span><text:span text:style-name="T66">, Canada Computers Ltd. Mississauga: Supervisor</text:span></text:p>
-   <text:p text:style-name="P78"><text:span text:style-name="T66">Phone: 647-460-0790</text:span></text:p>
-   <text:p text:style-name="P76"/>
-   <text:p text:style-name="P78"><text:span text:style-name="T68">Don Gilpin</text:span><text:span text:style-name="T66">, President, Abaan &amp; Associates Inc.</text:span></text:p>
-   <text:p text:style-name="P77"><text:span text:style-name="T70">Email: </text:span><text:a xlink:type="simple" xlink:href="mailto:dong@abaanassociates.com" text:style-name="ListLabel_20_1" text:visited-style-name="ListLabel_20_1">dong@abaanassociates.com</text:a></text:p>
-   <text:p text:style-name="P75"/>
-   <text:h text:style-name="P57" text:outline-level="1"><text:span text:style-name="T60">P</text:span><text:span text:style-name="T61">ersonal References</text:span></text:h>
-   <text:p text:style-name="P78"><text:span text:style-name="T68">Chris Henderson</text:span></text:p>
-   <text:p text:style-name="P78"><text:span text:style-name="T66">Phone: 1-613-761-2623</text:span></text:p>
-   <text:p text:style-name="P77"><text:span text:style-name="T70">Email: </text:span><text:a xlink:type="simple" xlink:href="mailto:chenderson@delphi.ca" text:style-name="ListLabel_20_1" text:visited-style-name="ListLabel_20_1">chenderson@delphi.ca</text:a><text:span text:style-name="T70"> </text:span></text:p>
-   <text:p text:style-name="P77"><text:span text:style-name="T70">Linkedin: </text:span><text:a xlink:type="simple" xlink:href="http://ca.linkedin.com/pub/chris-henderson/13/2b9/a6a" text:style-name="ListLabel_20_1" text:visited-style-name="ListLabel_20_1">http://ca.linkedin.com/pub/chris-henderson/13/2b9/a6a</text:a><text:span text:style-name="T70"> <text:s/></text:span></text:p>
-   <text:p text:style-name="P77"><text:span text:style-name="T70">Web: </text:span><text:a xlink:type="simple" xlink:href="http://www.lumosenergy.com/professionalbiography.html" text:style-name="ListLabel_20_1" text:visited-style-name="ListLabel_20_1">http://www.lumosenergy.com/professionalbiography.html</text:a><text:span text:style-name="T70"> </text:span></text:p>
-   <text:p text:style-name="P76"/>
-   <text:p text:style-name="P78"><text:span text:style-name="T68">Kenneth Evens</text:span><text:span text:style-name="T66">, Project Manager for Visions Engineering</text:span></text:p>
-   <text:p text:style-name="P77"><text:span text:style-name="T70">Email: </text:span><text:a xlink:type="simple" xlink:href="mailto:Kenneth.j.Evans@outlook.com" text:style-name="ListLabel_20_1" text:visited-style-name="ListLabel_20_1">Kenneth.j.Evans@outlook.com</text:a><text:span text:style-name="T70"> <text:s/></text:span></text:p>
-   <text:p text:style-name="P77"><text:span text:style-name="T71">LinkedIn: </text:span><text:a xlink:type="simple" xlink:href="https://www.linkedin.com/in/kennethjevans/" text:style-name="ListLabel_20_2" text:visited-style-name="ListLabel_20_2"><text:span text:style-name="T71">https://www.linkedin.com/in/kennethjevans/</text:span></text:a></text:p>
-   <text:p text:style-name="P78"><text:span text:style-name="T66">Phone: 1-571-244-3155</text:span></text:p>
-   <text:p text:style-name="P76"/>
-   <text:p text:style-name="P78"><text:span text:style-name="T68">Will Prado, </text:span><text:span text:style-name="T66">Colleague on Software Engineering Group Project</text:span></text:p>
-   <text:p text:style-name="P77"><text:span text:style-name="T71">LinkedIn: </text:span><text:a xlink:type="simple" xlink:href="https://www.linkedin.com/in/william-prado" text:style-name="ListLabel_20_2" text:visited-style-name="ListLabel_20_2"><text:span text:style-name="T71">https://www.linkedin.com/in/william-prado</text:span></text:a><text:span text:style-name="T71"> </text:span></text:p>
-   <text:p text:style-name="P74"><text:span text:style-name="T70">Email: </text:span><text:a xlink:type="simple" xlink:href="mailto:WillPrado@cmail.carleton.ca" text:style-name="ListLabel_20_1" text:visited-style-name="ListLabel_20_1">WillPrado@cmail.carleton.ca</text:a><text:span text:style-name="T70"> </text:span></text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:span text:style-name="T69">work</text:span><text:span text:style-name="T6"> Experience</text:span></text:h>
+   <text:p text:style-name="Standard"><text:span text:style-name="Normal_20_Bold"><text:span text:style-name="T26">I-AM Retailer Solutions Inc.</text:span></text:span><text:span text:style-name="T26"><text:tab/>Mississauga, ON, Canada</text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="Normal_20_Italic"><text:span text:style-name="T26">IT &amp; Media Arts</text:span></text:span><text:span text:style-name="T26"><text:tab/>June 2012 – Present</text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="Normal_20_Bold"><text:span text:style-name="T26">Shoppers Drug Mart</text:span></text:span><text:span text:style-name="T26"><text:tab/>Ottawa, ON, Canada</text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="Normal_20_Italic"><text:span text:style-name="T26">Cashie</text:span></text:span><text:span text:style-name="Normal_20_Italic"><text:span text:style-name="T33">r</text:span></text:span><text:span text:style-name="Normal_20_Italic"><text:span text:style-name="T26"> </text:span></text:span><text:span text:style-name="Normal_20_Italic"><text:span text:style-name="T33">&amp;</text:span></text:span><text:span text:style-name="Normal_20_Italic"><text:span text:style-name="T26">, Merchandiser</text:span></text:span><text:span text:style-name="Normal_20_Italic"><text:span text:style-name="T33"> (also assist in pharmacy)</text:span></text:span><text:span text:style-name="Normal_20_Italic"><text:span text:style-name="T26"><text:tab/></text:span></text:span><text:span text:style-name="Normal_20_Italic"><text:span text:style-name="T21">May 2016- </text:span></text:span><text:span text:style-name="T26">Present</text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="Normal_20_Bold"><text:span text:style-name="T26">Dominion Voting Systems</text:span></text:span><text:span text:style-name="T26"><text:tab/>Toronto, ON, Canada</text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="Normal_20_Italic"><text:span text:style-name="T26">Field Training and Support Representative</text:span></text:span><text:span text:style-name="T26"><text:tab/>May 2018 – June 2018</text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="Normal_20_Italic"><text:span text:style-name="T26">Field Service Representative</text:span></text:span><text:span text:style-name="T26"><text:tab/>October 2014 &amp; June 2014</text:span></text:p>
+   <text:p text:style-name="Standard"><text:soft-page-break/><text:span text:style-name="Normal_20_Bold"><text:span text:style-name="T26">Canada Computers</text:span></text:span><text:span text:style-name="T26"><text:tab/>Mississauga ON, Canadas</text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="Normal_20_Italic"><text:span text:style-name="T26">Customer Service Representative</text:span></text:span><text:span text:style-name="T26"><text:tab/>June 2014 – August 2015</text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="Normal_20_Bold"><text:span text:style-name="T26">Elections Canada</text:span></text:span><text:span text:style-name="T26"><text:tab/>Toronto, ON, Canada</text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="Normal_20_Italic"><text:span text:style-name="T26">Deputy Returning Officer</text:span></text:span><text:span text:style-name="T26"><text:tab/>September 2014</text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="Normal_20_Bold"><text:span text:style-name="T26">Fox Wireless</text:span></text:span><text:span text:style-name="T26"><text:tab/></text:span><text:span text:style-name="T32">Newmarket</text:span><text:span text:style-name="T26">, ON, Canada</text:span></text:p>
+   <text:p text:style-name="Standard"><text:span text:style-name="Normal_20_Italic"><text:span text:style-name="T26">Sales Associate</text:span></text:span><text:span text:style-name="T26"><text:tab/>May 2008 – August 2008</text:span></text:p>
+   <text:h text:style-name="P17" text:outline-level="1"/>
+   <text:h text:style-name="P17" text:outline-level="1">V<text:span text:style-name="T60">olunteering</text:span></text:h>
+   <text:p text:style-name="P71"><text:span text:style-name="Normal_20_Bold"><text:span text:style-name="T15">Note Taker: </text:span></text:span><text:span text:style-name="Normal_20_Bold"><text:span text:style-name="T37">for students with disabilities (PMC centre) at Carleton University <text:tab/></text:span></text:span><text:span text:style-name="Normal_20_Bold"><text:span text:style-name="T23">multiple courses and terms<text:tab/></text:span></text:span></text:p>
+   <text:p text:style-name="P71"><text:span text:style-name="Normal_20_Bold"><text:span text:style-name="T15">Canadian Feed the Children: </text:span></text:span><text:span text:style-name="Normal_20_Italic"><text:span text:style-name="T35">General Member at Carleton University</text:span></text:span><text:span text:style-name="T26"><text:tab/></text:span><text:span text:style-name="T29">2012 - 2013</text:span></text:p>
+   <text:p text:style-name="P72"><text:span text:style-name="T30">Aurora Food Pantry</text:span><text:span text:style-name="T26">: </text:span><text:span text:style-name="T36">volunteer at </text:span><text:span text:style-name="T38">Food Bank</text:span><text:span text:style-name="T36"><text:tab/></text:span><text:span text:style-name="T22">2008</text:span></text:p>
+   <text:p text:style-name="P71"><text:span text:style-name="T25">Out of the Cold program for the homeless: </text:span><text:span text:style-name="T37">volunteer </text:span><text:span text:style-name="T23"><text:tab/>2000 - 2003</text:span></text:p>
+   <text:p text:style-name="P71"><text:span text:style-name="Normal_20_Bold"><text:span text:style-name="T15">Terry Fox Run: </text:span></text:span><text:span text:style-name="Normal_20_Bold"><text:span text:style-name="T39">occasional donor and participant</text:span></text:span></text:p>
+   <text:p text:style-name="P76"><text:span text:style-name="Normal_20_Bold"><text:span text:style-name="T16">F</text:span></text:span><text:span text:style-name="Normal_20_Bold"><text:span text:style-name="T17">olding @ Home</text:span></text:span><text:span text:style-name="Normal_20_Bold"><text:span text:style-name="T16">: </text:span></text:span><text:span text:style-name="Normal_20_Bold"><text:span text:style-name="T40">occasionally donate my unused CPU and/or GPU resources to the researchers</text:span></text:span></text:p>
+   <text:h text:style-name="P18" text:outline-level="1"/>
+   <text:h text:style-name="P18" text:outline-level="1">Activities</text:h>
+   <text:p text:style-name="P45"><text:span text:style-name="T51">Recreational tennis, jogging. Cycle as a means of transportation. Play guitar in private. Hangout with </text:span><text:span text:style-name="T52">friends and </text:span><text:span text:style-name="T51">my girlfriend.</text:span></text:p>
+   <text:h text:style-name="P20" text:outline-level="1"/>
+   <text:h text:style-name="P21" text:outline-level="1">W<text:span text:style-name="T73">ork References</text:span></text:h>
+   <text:p text:style-name="P57"><text:span text:style-name="T76">Eddie Chin</text:span><text:span text:style-name="T74">, Canada Computers Ltd. Mississauga: Supervisor</text:span></text:p>
+   <text:p text:style-name="P51">Phone: 647-460-0790</text:p>
+   <text:p text:style-name="P51"/>
+   <text:p text:style-name="P57"><text:span text:style-name="T76">Don Gilpin</text:span><text:span text:style-name="T74">, President, Abaan &amp; Associates Inc.</text:span></text:p>
+   <text:p text:style-name="P55"><text:span text:style-name="T78">Email: </text:span><text:a xlink:type="simple" xlink:href="mailto:dong@abaanassociates.com" text:style-name="ListLabel_20_1" text:visited-style-name="ListLabel_20_1"><text:span text:style-name="T83">dong@abaanassociates.com</text:span></text:a></text:p>
+   <text:p text:style-name="P51"/>
+   <text:h text:style-name="P23" text:outline-level="1"><text:span text:style-name="T65">P</text:span><text:span text:style-name="T66">ersonal References</text:span></text:h>
+   <text:p text:style-name="P58"><text:span text:style-name="T76">Will Prado, </text:span><text:span text:style-name="T74">Colleague on Software Engineering Group Project</text:span></text:p>
+   <text:p text:style-name="P56"><text:span text:style-name="T79">LinkedIn: </text:span><text:a xlink:type="simple" xlink:href="https://www.linkedin.com/in/william-prado" text:style-name="ListLabel_20_2" text:visited-style-name="ListLabel_20_2"><text:span text:style-name="T79">https://www.linkedin.com/in/william-prado</text:span></text:a><text:span text:style-name="T79"> </text:span></text:p>
+   <text:p text:style-name="P54"><text:span text:style-name="T85">Email: </text:span><text:a xlink:type="simple" xlink:href="mailto:WillPrado@cmail.carleton.ca" text:style-name="ListLabel_20_1" text:visited-style-name="ListLabel_20_1"><text:span text:style-name="T83">WillPrado@cmail.carleton.ca</text:span></text:a><text:span text:style-name="T85"> </text:span></text:p>
+   <text:p text:style-name="P53"/>
+   <text:p text:style-name="P52">Chris Henderson</text:p>
+   <text:p text:style-name="P51">Phone: 1-613-761-2623</text:p>
+   <text:p text:style-name="P55"><text:span text:style-name="T78">Email: </text:span><text:a xlink:type="simple" xlink:href="mailto:chenderson@delphi.ca" text:style-name="ListLabel_20_1" text:visited-style-name="ListLabel_20_1"><text:span text:style-name="T83">chenderson@delphi.ca</text:span></text:a><text:span text:style-name="T78"> </text:span></text:p>
+   <text:p text:style-name="P55"><text:span text:style-name="T78">Linkedin: </text:span><text:a xlink:type="simple" xlink:href="http://ca.linkedin.com/pub/chris-henderson/13/2b9/a6a" text:style-name="ListLabel_20_1" text:visited-style-name="ListLabel_20_1"><text:span text:style-name="T83">http://ca.linkedin.com/pub/chris-henderson/13/2b9/a6a</text:span></text:a><text:span text:style-name="T78"> <text:s/></text:span></text:p>
+   <text:p text:style-name="P55"><text:span text:style-name="T78">Web: </text:span><text:a xlink:type="simple" xlink:href="http://www.lumosenergy.com/professionalbiography.html" text:style-name="ListLabel_20_1" text:visited-style-name="ListLabel_20_1"><text:span text:style-name="T83">http://www.lumosenergy.com/professionalbiography.html</text:span></text:a><text:span text:style-name="T78"> </text:span></text:p>
+   <text:p text:style-name="P51"/>
+   <text:p text:style-name="P57"><text:span text:style-name="T76">Kenneth Evens</text:span><text:span text:style-name="T74">, Director of Programs and Business Development</text:span></text:p>
+   <text:p text:style-name="P51">Email: Kevans@visionengineered.com </text:p>
+   <text:p text:style-name="P55"><text:span text:style-name="T79">LinkedIn: </text:span><text:a xlink:type="simple" xlink:href="https://www.linkedin.com/in/kennethjevans/" text:style-name="ListLabel_20_2" text:visited-style-name="ListLabel_20_2"><text:span text:style-name="T79">https://www.linkedin.com/in/kennethjevans/</text:span></text:a></text:p>
+   <text:p text:style-name="P51">Phone: 1-<text:span text:style-name="T87">614-586-6996</text:span></text:p>
   </office:text>
  </office:body>
 </office:document>

@@ -1,0 +1,98 @@
+﻿Sheldon W. B. Maschmeyer
+740 Springland Dr., Apt. 515, Ottawa, Ontario
+613-889-4320
+sheldon@maschmeyer.ca
+Executive summary	
+    • III – Top Secret Security Clearance for Canadian government.
+    • IMRSV Data Labs: Full Stack Software Developer
+            ▪ Two apps for private sector (same client: React Native mobile app, and a ReactJS web app).
+            ▪ Three classified government apps (two contracts: two apps using ReactJS and one using VueJS).
+            ▪ One classified concept demo (promotional using VueJS).
+    • Applied computer science and broad interdisciplinary science education and experience.
+    • Results driven team player with effective problem solving and communication skills. 
+
+Technology Skills
+
+    • TypeScript, JavaScript, SASS (with CSS Modules), HTML5, Bootstrap-5.2 and additional frameworks.
+    • Git: GitLab and GitHub for collaboration and version control.
+    • Docker including setting up docker containers with Docker Compose. 
+    • Databases: PostgreSQL, mySQL, Oracle SQL, MongoDB.
+    • Linux and Windows.
+    • C++ and Java (Carleton U courses).
+    • Windows (Batch scripting) and Linux (Bash scripting).
+    • OS Kernel programming on Linux.
+    • Computer/Network Security: Burp, Wireshark, and Packet Tracing.
+    • MS Office programs including advanced skills such as physics tables with Excel.
+    • Adobe Photoshop, Animate and Premier.
+
+Professional Experience
+IMRSV Data Labs	Ottawa ON, Canada
+IMRSV works with defence, public safety, and national security organizations to accelerate mission-critical decision making with analytical tools, automations, and game-changing machine learning capabilities.
+Full Stack Developer	Jan 2021 – Oct 2022 
+Full Stack Software Developer for both websites and mobile app development. Experience working with small, very agile, teams. Experience with both API and frontend development. Utilize JavaScript frameworks such as React Native (using Expo for Android and iOS), React and Vue.js (for web apps). For API, familiar with SQL databases. Familiar with Docker environments. I write both units tests and end-to-end tests. I have set up docker environments, TypeScript with linting and, testing frameworks for a new project.
+Shoppers Drug Mart	Jan 2016 – Jan 2021
+Shoppers Drug Mart is leading drug store retailer providing a broad range of products and services in health, beauty, and convenience. This location includes expanded services including a full grocery section.
+Evening Supervisor	June 2020 – Jan 2021 
+Evening supervisor; along with cashier and merchandiser roles. As a supervisor, I was responsible for merchandising and overseeing employees’ tasks to ensure store is clean, well stocked and runs smoothly. Manage customer service issues. Responsible for all closing duties including reconciling financial at closing. 
+Cashier & Merchandiser / Pharmacy Assistant	May 2016 - June 2020
+Key Responsibilities:
+    • Efficiently and accurately operate cash register, OLG lottery, Load Presto Cards.
+    • Promote corporate customer facing charity events and promote Shoppers Loyalty Program (Optimum).
+    • Perform merchandising tasks such as: maintaining a temperature log, checking expiry dates, using a PDT (to print price tags, bin excess inventory, check prices and, check planogram when restocking.
+    • Assist in pharmacy at cash, preparing delivery orders including payment. Calling customers when their prescriptions are ready for pickup. Sort prepared prescriptions and, recently received drugs. Sign-up customers for the online pharmacy. Staffing has improved in pharmacy since COVID-19.
+    • During COVID-19 pandemic, regularly wear a face shield and/or mask at work. Enforce Ottawa mask wearing bylaw at work, asking customers to wear a mask that covered their nose and mouth.
+
+Canada Computers	Mississauga ON, Canada
+Canada Computers & Electronics is a retailer of personal computers, IT and components, as well as consumer electronics.
+Customer Service Representative	June 2014 – August 2015
+Key Responsibilities:
+    • Service Desk representative responsible for aiding clients. troubleshooting technical issues and suggesting appropriate solutions. 
+    • Responsible for assisting clients in finding the right software or hardware to meet their needs.
+    • Used POS system to order required services and parts for pickup or delivery as well as inventory transfer between customer service department and sales.
+    • Assisted in migrating  customers’ computers from Windows 8 to Windows 10. 
+    • Assisted customers with Windows troubleshooting
+    • Using MiniTool Partition Wizard, I backed up and migrated OS and files to new SSDs and HDDs.
+
+I-AM Retailer Solutions Inc.	Mississauga, ON, Canada
+I-AM Retailer Solutions specialized in advanced retail display solutions, featuring video and mobile advertising capabilities. It was a family business. I am a shareholder. Work was mostly unpaid, volunteer. I-AM Retailer Solutions Inc. became inactive in September 2020.
+IT & Media Arts	June 2012 – September 2020
+Assignments and Projects completed:
+    • Provide employees with  IT support in a Windows 10 and Office 365 environment, as well as desktop applications, hardware, and mobile devices.
+    • Setup Google Apps for Business and configured all employees Outlook 365 desktop applications and, mobiles (iPhone, Android). 
+    • Regularly update and maintain all employee hardware and software with recent software updates, and security patches.
+    • Source and install all corporate hardware and software.
+    • Back up all corporate data regularly, utilizing tools such as Belarc Advisor and business cloud features. 
+    • Configured IMAP and Exchange Email for employees in Outlook. 
+    • Graphic art design/creation of multimedia business support materials, including concept renditions, situational prototype designs.
+    • Designed images, videos, and animations for executive presentations.
+    • Installed Linux (Ubuntu) and ran advertising on the Digital Engines that run the I-AM  video screens and connected them to a gateway which had always-on cellular internet service. 
+
+Dominion Voting Systems	Toronto, ON, Canada
+Dominion Voting Systems (“DVS”) began in 1895 in New York with the invention of the first ever Direct Recording lever machines for elections. DVS is still known for its innovation in election technology. 
+Field Training and Support Representative	May 2018 – June 2018
+Key Responsibilities:
+    • Provided advanced training for the 2018 Ontario Election to all Poll Officials in Ottawa.
+    • Assisted with equipment setup and conducted Logic & Accuracy testing.
+    • Provided support during polling hours and while votes were being tabulated.
+Field Service Representative	October 2014 & June 2014
+Key Responsibilities:
+    • Assisted Tabulator District Returning Officers (“TDROs”) with equipment to set-up.
+    • Assisted TDRO with Logic and Accuracy testing of DVS electronic voting equipment.
+    • Ensured that all voting machines remained operational throughout all polling days.
+
+Elections Canada	Toronto, ON, Canada
+Elections Canada is the independent, non-partisan agency responsible for conducting Canadian federal elections and referendums.
+Deputy Returning Officer	September 2014
+Key Responsibilities:
+    • Responsible for setting up assigned polling stations.
+    • Ensured all Election Canada employees and party representatives followed rules and procedures.
+    • Ensured voters followed voting rules and experienced an easy and hassle-free voting environment 
+    • Managed registration process at polling station as required. 
+    • Tabulated votes completed all required paperwork, informed Elections Canada of polling station voting results and returned the ballot box and related materials to Election Canada Office.
+
+Education
+Carleton University	Ottawa
+Bachelor of Computer Science Major, Minor in Sociology	2015 - 2019
+
+Carleton University	Ottawa
+Bachelor of Science: Integrated Science, Concentration in Science and Technology	2009 - 2014
