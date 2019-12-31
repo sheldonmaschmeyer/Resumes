@@ -3,14 +3,17 @@
 613-889-4320 | sheldon@maschmeyer.ca
 profile
     • Secret Level Security Clearance
-    • Qualified for Computer Programming, IT and researching positions
-    • I have both applied computer science and broad science, technology and environmental education 
+    • Qualified for Computer Software Developer, IT and researching positions
+    • I have both applied computer science and broad science, technology and environmental education
+    • For the majority of my work experience, I was working part-time while studying to finance my education (low-income adult student without family financial support)
+
 Education
 Carleton University	Ottawa
 BS. Computer Science (Minor: Sociology)	2019
 
 Carleton University	Ottawa
 BS. Integrated Science and Technology	2014
+
 Technology Skills
     • C++ and Java
     • Windows (Batch) and Linux (Batch).
@@ -26,6 +29,7 @@ Technology Skills
     • Computer/Network Security: Burp, Wireshark, and Packet Tracing.
     • MS Office programs including advanced skills such as physics tables with Excel.
     • Adobe Photoshop and Premier.
+
 Professional Experience
 I-AM Retailer Solutions Inc.	Mississauga, ON, Canada
 IT & Media Arts	June 2012 – Present
@@ -92,7 +96,7 @@ Key Responsibilities:
     • Exceeded sales quota of Telus Mobile devices, contracts and accessories.
     • Assisted with store opening and closing duties. 
     • Troubleshooted mobile related customer issues. Educated clients on usage and features of their new mobile devices.
-      
+
 Volunteering
 Note Taker: for students with disabilities (PMC centre) at Carleton University 	multiple courses and terms	
 Canadian Feed the Children: General Member at Carleton University	2012 - 2013
@@ -103,6 +107,7 @@ Folding @ Home: occasionally donate my unused CPU and/or GPU resources to the re
 
 Activities
 Recreational tennis, jogging. Cycle as a means of transportation. Play guitar in private. Hangout with friends and my girlfriend.
+
 Work References
 Eddie Chin, Canada Computers Ltd. Mississauga: Supervisor
 Phone: 647-460-0790
