@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ooo="http://openoffice.org/2004/office" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><dc:title>Sheldon Maschmeyer&apos;s Resume</dc:title><meta:editing-cycles>1</meta:editing-cycles><meta:creation-date>2019-12-11T11:12:24.397000000</meta:creation-date><dc:language>en-CA</dc:language><meta:editing-duration>P0D</meta:editing-duration><meta:generator>LibreOffice/6.4.4.2$Linux_X86_64 LibreOffice_project/40$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="3" meta:paragraph-count="97" meta:word-count="1148" meta:character-count="7779" meta:non-whitespace-character-count="6758"/><meta:user-defined meta:name="AppVersion">16.0000</meta:user-defined><meta:user-defined meta:name="DocSecurity" meta:value-type="float">0</meta:user-defined><meta:user-defined meta:name="HyperlinksChanged" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="LinksUpToDate" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="ScaleCrop" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="ShareDoc" meta:value-type="boolean">false</meta:user-defined><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Normal" xlink:href=""/></office:meta>
+ <office:meta><dc:title>Sheldon Maschmeyer&apos;s Resume</dc:title><meta:editing-cycles>1</meta:editing-cycles><meta:creation-date>2019-12-11T11:12:24.397000000</meta:creation-date><dc:language>en-CA</dc:language><meta:editing-duration>P0D</meta:editing-duration><meta:generator>LibreOffice/6.4.4.2$Linux_X86_64 LibreOffice_project/40$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="3" meta:paragraph-count="97" meta:word-count="1147" meta:character-count="7773" meta:non-whitespace-character-count="6753"/><meta:user-defined meta:name="AppVersion">16.0000</meta:user-defined><meta:user-defined meta:name="DocSecurity" meta:value-type="float">0</meta:user-defined><meta:user-defined meta:name="HyperlinksChanged" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="LinksUpToDate" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="ScaleCrop" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="ShareDoc" meta:value-type="boolean">false</meta:user-defined><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="Normal" xlink:href=""/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">72464</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">67</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">31016</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">13361</config:config-item>
@@ -13,12 +13,12 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">19699</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">82494</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">11509</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">2875</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">72464</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">67</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">31014</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">85824</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">13427</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -1907,7 +1907,7 @@
  <office:master-styles>
   <style:master-page style:name="Standard" style:page-layout-name="pm1">
    <style:footer>
-    <text:p text:style-name="P1">Page <text:page-number text:select-page="current">2</text:page-number><text:s/>of <text:page-count>3</text:page-count></text:p>
+    <text:p text:style-name="P1">Page <text:page-number text:select-page="current">3</text:page-number><text:s/>of <text:page-count>3</text:page-count></text:p>
    </style:footer>
   </style:master-page>
   <style:master-page style:name="First_20_Page" style:display-name="First Page" style:page-layout-name="pm2" style:next-style-name="Standard"/>
@@ -1923,7 +1923,7 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
    </text:sequence-decls>
    <text:p text:style-name="P93">Sheldon W. B. Maschmeyer</text:p>
-   <text:p text:style-name="P94"><text:span text:style-name="T97">Home: </text:span>562 Reardon Private, Ottawa, Ontario, Canada, K1V 2L1</text:p>
+   <text:p text:style-name="P94">562 Reardon Private, Ottawa, Ontario, Canada, K1V 2L1</text:p>
    <text:p text:style-name="P5">613-889-4320 | sheldon@maschmeyer.ca</text:p>
    <text:h text:style-name="P6" text:outline-level="1">profile</text:h>
    <text:list xml:id="list2667032446" text:style-name="WWNum2">
@@ -1950,7 +1950,7 @@
    <text:p text:style-name="P39"><text:span text:style-name="Normal_20_Bold"><text:span text:style-name="T29">Carleton University</text:span></text:span><text:span text:style-name="T29"><text:tab/>Ottawa</text:span></text:p>
    <text:p text:style-name="P39"><text:span text:style-name="Normal_20_Italic"><text:span text:style-name="T30">B</text:span></text:span><text:span text:style-name="Normal_20_Italic"><text:span text:style-name="T39">achelor of Science</text:span></text:span><text:span text:style-name="Normal_20_Italic"><text:span text:style-name="T30">:</text:span></text:span><text:span text:style-name="Normal_20_Italic"><text:span text:style-name="T29"> Integrated Science, </text:span></text:span><text:span text:style-name="Normal_20_Italic"><text:span text:style-name="T39">Concentration in Science</text:span></text:span><text:span text:style-name="Normal_20_Italic"><text:span text:style-name="T29"> and Technology</text:span></text:span><text:span text:style-name="T29"><text:tab/></text:span><text:span text:style-name="T39">2009 - </text:span><text:span text:style-name="T29">2014</text:span></text:p>
    <text:h text:style-name="P8" text:outline-level="1">Technology Skills</text:h>
-   <text:list xml:id="list143126610532200" text:continue-numbering="true" text:style-name="WWNum2">
+   <text:list xml:id="list143352465861630" text:continue-numbering="true" text:style-name="WWNum2">
     <text:list-item>
      <text:p text:style-name="P108">C++ <text:span text:style-name="T83">and Java</text:span></text:p>
     </text:list-item>
@@ -2002,8 +2002,7 @@
    <text:p text:style-name="P85"><text:span text:style-name="Normal_20_Italic"><text:span text:style-name="T29">Cashier &amp; Merchandiser </text:span></text:span><text:span text:style-name="Normal_20_Italic"><text:span text:style-name="T37">(also assist in pharmacy)</text:span></text:span><text:span text:style-name="Normal_20_Italic"><text:span text:style-name="T29"><text:tab/></text:span></text:span><text:span text:style-name="Normal_20_Italic"><text:span text:style-name="T19">May 2016 - </text:span></text:span><text:span text:style-name="T38">June 2020</text:span></text:p>
    <text:p text:style-name="P92"><text:span text:style-name="T7">Shoppers Drug Mart is leading drug store retailer providing a broad range of products and services in health, beauty and convenience. Our location is open till midnight. </text:span><text:span text:style-name="T8">Our location r</text:span><text:span text:style-name="T7">ecently expanded the grocery section, providing fresh produce, easy meals and self checkouts.</text:span></text:p>
    <text:p text:style-name="P72"><text:span text:style-name="T17"/></text:p>
-   <text:p text:style-name="P72"><text:soft-page-break/><text:span text:style-name="T17"/></text:p>
-   <text:p text:style-name="P72"><text:span text:style-name="T17">Key Responsibilities</text:span><text:span text:style-name="T7">:</text:span></text:p>
+   <text:p text:style-name="P72"><text:soft-page-break/><text:span text:style-name="T17">Key Responsibilities</text:span><text:span text:style-name="T7">:</text:span></text:p>
    <text:list xml:id="list285968064" text:style-name="WWNum4">
     <text:list-item>
      <text:p text:style-name="P101">Efficiently and accurately operate cash register, OLG lottery, Load Presto Cards.</text:p>
@@ -2072,22 +2071,22 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P68">2014:</text:p>
-   <text:list xml:id="list143126767745798" text:continue-numbering="true" text:style-name="WWNum5">
+   <text:list xml:id="list143351392159708" text:continue-numbering="true" text:style-name="WWNum5">
     <text:list-item>
      <text:p text:style-name="P104">Assisted Tabulator District Returning Officers (“TDROs”) with equipment to set-up.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P104"><text:soft-page-break/>Assisted TDRO with Logic and Accuracy testing of DVS electronic voting equipment.</text:p>
+     <text:p text:style-name="P104">Assisted TDRO with Logic and Accuracy testing of DVS electronic voting equipment.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P106"><text:span text:style-name="T29">Ensured that all voting machines remained operational throughout all polling days.</text:span></text:p>
+     <text:p text:style-name="P106"><text:soft-page-break/><text:span text:style-name="T29">Ensured that all voting machines remained operational throughout all polling days.</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Standard"><text:span text:style-name="Normal_20_Bold"><text:span text:style-name="T29">Canada Computers</text:span></text:span><text:span text:style-name="T29"><text:tab/>Mississauga ON, Canadas</text:span></text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="Normal_20_Italic"><text:span text:style-name="T29">Customer Service Representative</text:span></text:span><text:span text:style-name="T29"><text:tab/>June 2014 – August 2015</text:span></text:p>
    <text:p text:style-name="P12">Founded in 1991, Canada Computers &amp; Electronics is a retailer of personal computers, IT and components, as well as consumer electronics.</text:p>
    <text:p text:style-name="P71"><text:span text:style-name="T17">Key Responsibilities</text:span><text:span text:style-name="T7">:</text:span></text:p>
-   <text:list xml:id="list143125475697549" text:continue-numbering="true" text:style-name="WWNum5">
+   <text:list xml:id="list143352649793326" text:continue-numbering="true" text:style-name="WWNum5">
     <text:list-item>
      <text:p text:style-name="P104">Service Desk representative responsible for aiding clients with troubleshooting technical issues and suggesting appropriate solutions. </text:p>
     </text:list-item>
@@ -2111,7 +2110,7 @@
    <text:p text:style-name="Standard"><text:span text:style-name="Normal_20_Italic"><text:span text:style-name="T29">Deputy Returning Officer</text:span></text:span><text:span text:style-name="T29"><text:tab/>September 2014</text:span></text:p>
    <text:p text:style-name="P26">Elections Canada is the independent, non-partisan agency responsible for conducting Canadian federal elections and referendums. </text:p>
    <text:p text:style-name="P71"><text:span text:style-name="T17">Key Responsibilities</text:span><text:span text:style-name="T7">:</text:span></text:p>
-   <text:list xml:id="list143126012594604" text:continue-numbering="true" text:style-name="WWNum5">
+   <text:list xml:id="list143350910256849" text:continue-numbering="true" text:style-name="WWNum5">
     <text:list-item>
      <text:p text:style-name="P104">Responsible for setting up assigned polling stations.</text:p>
     </text:list-item>
