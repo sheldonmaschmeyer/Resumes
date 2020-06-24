@@ -2,17 +2,17 @@
 562 Reardon Private, Ottawa, Ontario, Canada, K1V 2L1
 613-889-4320 | sheldon@maschmeyer.ca
 profile
-    • Secret Level Security Clearance
-    • Qualified for Computer Software Developer, IT and researching positions
-    • I have both applied computer science and broad science, technology and environmental education
-    • For the majority of my work experience, I was working part-time while studying to finance my education (low-income adult student)
-    • Had health issues during school years which delayed the start of university and career goals
+    • Secret Level Security Clearance.
+    • Qualified for Computer Software Developer, IT, Lab assistant and research positions.
+    • I have both applied computer science and broad science, technology and environmental education.
+    • Majority of work experience; working while studying to finance my education and living expenses.
+    • Had health issues during school years, especially secondary school, which delayed the start of university and career. Health completely recovered after day surgery and two years of university.
 Education
 Carleton University	Ottawa
-BS. Computer Science (Minor: Sociology)	2019
+Bachelor of Computer Science Major, Minor in Sociology	2015 - 2019
 
 Carleton University	Ottawa
-BS. Integrated Science and Technology	2014
+Bachelor of Science: Integrated Science, Concentration in Science and Technology	2009 - 2014
 Technology Skills
     • C++ and Java
     • Windows (Batch) and Linux (Batch).
@@ -35,6 +35,8 @@ I have been offered and have accepted an evening supervisor position. Training i
 Shoppers Drug Mart	Ottawa, ON, Canada
 Cashier & Merchandiser (also assist in pharmacy)	May 2016 - June 2020
 Shoppers Drug Mart is leading drug store retailer providing a broad range of products and services in health, beauty and convenience. Our location is open till midnight. Our location recently expanded the grocery section, providing fresh produce, easy meals and self checkouts.
+
+
 Key Responsibilities:
     • Efficiently and accurately operate cash register, OLG lottery, Load Presto Cards.
     • Promote corporate customer facing charity events and promote Shoppers Loyalty Program (Optimum).
@@ -67,7 +69,6 @@ Key Responsibilities:
     • Assisted Tabulator District Returning Officers (“TDROs”) with equipment to set-up.
     • Assisted TDRO with Logic and Accuracy testing of DVS electronic voting equipment.
     • Ensured that all voting machines remained operational throughout all polling days.
-
 Canada Computers	Mississauga ON, Canadas
 Customer Service Representative	June 2014 – August 2015
 Founded in 1991, Canada Computers & Electronics is a retailer of personal computers, IT and components, as well as consumer electronics.
@@ -97,4 +98,4 @@ Key Responsibilities:
     • Troubleshooted mobile related customer issues. Educated clients on usage and features of their new mobile devices.
 
 Activities
-Recreational tennis, jogging. Cycle as a means of transportation. Play guitar in private, with my girlfriend. Hangout with friends including watching sci-fi. Pre-pandemic, in early March, I was entertaining job opportunities before going to my sister’s wedding and a vacation with international university friends in Florida. During this pandemic, my job search has reduced but I continue to pursue my developer career aspirations. During the pandemic, I have been playing Jackbox and Fortnite with local and international friends. Due to asthma and allergies, in-person volunteer initiatives will be limited until there is a vaccine.
+Recreational tennis, jogging. Currently cycle as a means of transportation, working on G drivers license.  Play guitar, traditional tabs and notation but mostly non-serious Rocksmith with my girlfriend. Enjoy watching sci-fi with friends. Pre-pandemic, in early March, entertaining job opportunities before going to sister’s wedding and a vacation with international university friends in Florida. During pandemic, I have been playing Jackbox and Fortnite with local and international friends. Due to asthma and allergies, in-person volunteer initiatives will be limited until there is a vaccine.
