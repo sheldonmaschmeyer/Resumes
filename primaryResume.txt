@@ -15,7 +15,7 @@ Carleton University	Ottawa
 Bachelor of Science: Integrated Science, Concentration in Science and Technology	2009 - 2014
 Technology Skills
     • C++ and Java
-    • Windows (Batch) and Linux (Batch).
+    • Windows (Batch scripting) and Linux (Bash scripting).
     • OS Kernel programming on Linux.
     • Databases: Oracle SQL, mySQL, MongoDB.
     • Git; using GitHub for collaboration and version control.
@@ -31,7 +31,7 @@ Technology Skills
 Professional Experience
 Shoppers Drug Mart	Ottawa, ON, Canada
 Evening Supervisor	June 2020 - Present 
-Merchandising, facing. Cover the breaks for front cash, cosmetics and post office. Manage customer service issues. Reconcile tills and count the safe. Responsible for closing the store.
+Evening supervisor; along with cashier and merchandiser roles. As a supervisor, I merchandise and cover the breaks for front cash, cosmetics and post office. Manage customer service issues. Reconcile tills and count the safe. Responsible for facing product in aisle and closing the store.
 Shoppers Drug Mart	Ottawa, ON, Canada
 Cashier & Merchandiser (also assist in pharmacy)	May 2016 - June 2020
 Shoppers Drug Mart is leading drug store retailer providing a broad range of products and services in health, beauty and convenience. Our location is open till midnight. Our location recently expanded the grocery section, providing fresh produce, easy meals and self checkouts.
