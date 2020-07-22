@@ -2,12 +2,10 @@
 562 Reardon Private, Ottawa, Ontario
 613-889-4320
 sheldon@maschmeyer.ca
-profile
+Profile
     • Secret Level Security Clearance.
-    • Applied computer science as well as broad general science education and experience.
-
+    • Applied computer science and broad general science education and experience.
 Education
-
 Carleton University	Ottawa
 Bachelor of Computer Science Major, Minor in Sociology	2015 - 2019
 
@@ -32,13 +30,10 @@ Technology Skills
     • Adobe Photoshop and Premier.
 
 Professional Experience
-
 Shoppers Drug Mart	Ottawa, ON, Canada
 Shoppers Drug Mart is leading drug store retailer providing a broad range of products and services in health, beauty and convenience. This location includes expanded services including a full grocery section.
-
-
 Evening Supervisor	June 2020 - Present 
-Evening supervisor; along with cashier and merchandiser roles. As a supervisor, I am responsible for merchandising and overseeing employees’ tasks to ensure store is clean, well stocked and runs smoothly. Manage customer service issues. Responsible for all closing duties including reconciling financials at closing. 
+Evening supervisor; along with cashier and merchandiser roles. As a supervisor, I am responsible for merchandising and overseeing employees’ tasks to ensure store is clean, well stocked and runs smoothly. Manage customer service issues. Responsible for all closing duties including reconciling financial at closing. 
 
 Cashier & Merchandiser / Pharmacy Assistant	May 2016 - June 2020
 Key Responsibilities:
@@ -62,12 +57,9 @@ Assignments and Projects completed:
     • Graphic art design/creation of multimedia business support materials, including concept renditions, situational prototype designs.
     • Designed images, videos and animations for executive presentations.
     • Installed Linux (Ubuntu) and ran advertising on the Digital Engines that run the I-AM  video screens and connected them to a gateway which had always-on cellular internet service. 
-
-
-
+      
 Dominion Voting Systems	Toronto, ON, Canada
 Dominion Voting Systems (“DVS”) began in 1895 in New York with the invention of the first ever Direct Recording lever machines for elections. DVS is still known for its innovation in election technology. 
-
 Field Training and Support Representative	May 2018 – June 2018
 Key Responsibilities:
     • Provided advanced training for the 2018 Ontario Election to all Poll Officials in Ottawa.
