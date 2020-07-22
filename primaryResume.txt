@@ -1,22 +1,21 @@
 ﻿Sheldon W. B. Maschmeyer
-Ottawa, Ontario
-562 Reardon Private, K1V 2L1
-Mississauga, Ontario
-4060 Farrier Court, L5L 2Y4
+4060 Farrier Court, Mississauga, Ontario
 613-889-4320
 sheldon@maschmeyer.ca
 profile
     • Secret Level Security Clearance.
-    • Qualified for Computer Software Developer, IT, Lab assistant and research positions.
-    • I have both applied computer science and broad science, technology and environmental education.
-    • Majority of work experience; working while studying to finance my education and living expenses.
+    • Applied computer science as well as broad general science education and experience.
+
 Education
+
 Carleton University	Ottawa
 Bachelor of Computer Science Major, Minor in Sociology	2015 - 2019
 
 Carleton University	Ottawa
 Bachelor of Science: Integrated Science, Concentration in Science and Technology	2009 - 2014
+
 Technology Skills
+
     • C++ and Java
     • Windows (Batch scripting) and Linux (Bash scripting).
     • OS Kernel programming on Linux.
@@ -31,23 +30,28 @@ Technology Skills
     • Computer/Network Security: Burp, Wireshark, and Packet Tracing.
     • MS Office programs including advanced skills such as physics tables with Excel.
     • Adobe Photoshop and Premier.
-Professional Experience
-Shoppers Drug Mart	Ottawa, ON, Canada
-Evening Supervisor	June 2020 - Present 
-Evening supervisor; along with cashier and merchandiser roles. As a supervisor, I merchandise and cover the breaks for front cash, cosmetics and post office. Manage customer service issues. Reconcile tills and count the safe. Responsible for facing product in aisle and closing the store.
-Shoppers Drug Mart	Ottawa, ON, Canada
-Cashier & Merchandiser (also assist in pharmacy)	May 2016 - June 2020
-Shoppers Drug Mart is leading drug store retailer providing a broad range of products and services in health, beauty and convenience. Our location is open till midnight. Our location recently expanded the grocery section, providing fresh produce, easy meals and self checkouts.
 
+Professional Experience
+
+Shoppers Drug Mart	Ottawa, ON, Canada
+Shoppers Drug Mart is leading drug store retailer providing a broad range of products and services in health, beauty and convenience. This location includes expanded services including a full grocery section.
+
+
+Evening Supervisor	June 2020 - Present 
+Evening supervisor; along with cashier and merchandiser roles. As a supervisor, I am responsible for merchandising and overseeing employees’ tasks to ensure store is clean, well stocked and runs smoothly. Manage customer service issues. Responsible for all closing duties including reconciling financials at closing. 
+
+Cashier & Merchandiser / Pharmacy Assistant	May 2016 - June 2020
 Key Responsibilities:
     • Efficiently and accurately operate cash register, OLG lottery, Load Presto Cards.
     • Promote corporate customer facing charity events and promote Shoppers Loyalty Program (Optimum).
     • Perform merchandising tasks such as: maintaining a temperature log, checking expiry dates, using a PDT (to print price tags, bin excess inventory, check prices and, check planogram when restocking.
     • Assist in pharmacy at cash, preparing delivery orders including payment. Calling customers when their prescriptions are ready for pickup. Sort prepared prescriptions and, recently received drugs. Sign-up customers for the online pharmacy. Staffing has improved in pharmacy since COVID-19.
     • During COVID-19 pandemic, regularly wear a face shield and/or mask at work. Enforce Ottawa mask wearing bylaw at work, asking customers to wear a mask; covering nose and mouth. Protects myself and the others around me.
+
 I-AM Retailer Solutions Inc.	Mississauga, ON, Canada
-IT & Media Arts	June 2012 – Present
 I-AM Retailer Solutions specializes in advanced retail display solutions, featuring video and mobile advertising capabilities.
+
+IT & Media Arts	June 2012 – Present
 Assignments and Projects completed:
     • Provide employees with  IT support in a Windows 10 and Office 365 environment, as well as desktop applications, hardware and mobile devices.
     • Setup Google Apps for Business and configured all employees Outlook 365 desktop applications and, mobiles (iPhone, Android). 
@@ -58,24 +62,27 @@ Assignments and Projects completed:
     • Graphic art design/creation of multimedia business support materials, including concept renditions, situational prototype designs.
     • Designed images, videos and animations for executive presentations.
     • Installed Linux (Ubuntu) and ran advertising on the Digital Engines that run the I-AM  video screens and connected them to a gateway which had always-on cellular internet service. 
+
+
+
 Dominion Voting Systems	Toronto, ON, Canada
-Field Training and Support Representative	May 2018 – June 2018
-Field Service Representative	October 2014 & June 2014
 Dominion Voting Systems (“DVS”) began in 1895 in New York with the invention of the first ever Direct Recording lever machines for elections. DVS is still known for its innovation in election technology. 
+
+Field Training and Support Representative	May 2018 – June 2018
 Key Responsibilities:
-2018: 
     • Provided advanced training for the 2018 Ontario Election to all Poll Officials in Ottawa.
     • Assisted with equipment setup and conducted Logic & Accuracy testing.
     • Provided support during polling hours and while votes were being tabulated.
 
-
-2014:
+Field Service Representative	October 2014 & June 2014
+Key Responsibilities:
     • Assisted Tabulator District Returning Officers (“TDROs”) with equipment to set-up.
     • Assisted TDRO with Logic and Accuracy testing of DVS electronic voting equipment.
     • Ensured that all voting machines remained operational throughout all polling days.
+
 Canada Computers	Mississauga ON, Canada
-Customer Service Representative	June 2014 – August 2015
 Founded in 1991, Canada Computers & Electronics is a retailer of personal computers, IT and components, as well as consumer electronics.
+Customer Service Representative	June 2014 – August 2015
 Key Responsibilities:
     • Service Desk representative responsible for aiding clients with troubleshooting technical issues and suggesting appropriate solutions. 
     • Responsible for assisting clients in finding the right software or hardware to meet their needs.
@@ -83,9 +90,10 @@ Key Responsibilities:
     • Assisted in migrating  customers’ computers from Windows 8 to Windows 10 during transition period. 
     • Assisted customers with Windows troubleshooting
     • Using MiniTool Partition Wizard, I backed up and migrated OS and files to new SSDs and HDDs.
+
 Elections Canada	Toronto, ON, Canada
+Elections Canada is the independent, non-partisan agency responsible for conducting Canadian federal elections and referendums.
 Deputy Returning Officer	September 2014
-Elections Canada is the independent, non-partisan agency responsible for conducting Canadian federal elections and referendums. 
 Key Responsibilities:
     • Responsible for setting up assigned polling stations.
     • Ensured all Election Canada employees and party representatives followed rules and procedures.
@@ -93,9 +101,8 @@ Key Responsibilities:
     • Managed registration process at polling station as required. 
     • Tabulated votes completed all required paperwork, informed Elections Canada of polling station voting results and, returned the ballot box and related materials to Election Canada Office.
 Fox Wireless	Newmarket, ON, Canada
-Sales Associate	May 2008 – August 2008
 Fox Wireless Communications sold Telus mobiles, accessories and contracts. Moved to a new location when a new Telus store established nearby. I believe they are no longer operating. 
-
+Sales Associate	May 2008 – August 2008
 Key Responsibilities:
     • Exceeded sales quota of Telus Mobile devices, contracts and accessories.
     • Assisted with store opening and closing duties. 
