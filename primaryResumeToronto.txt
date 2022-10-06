@@ -13,7 +13,7 @@ Executive summary
 
 Technology Skills
 
-    • TypeScript, JavaScript, SASS (with CSS Modules), HTML5, Bootstrap-5.2 and additional frameworks.
+    • React.JS, Vue.JS, TypeScript, JavaScript, SASS (with CSS Modules), HTML5, Bootstrap-5.2, PHP.
     • Git: GitLab and GitHub for collaboration and version control.
     • Docker including setting up docker containers with Docker Compose. 
     • Databases: PostgreSQL, mySQL, Oracle SQL, MongoDB.
